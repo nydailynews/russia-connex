@@ -169,7 +169,7 @@
     </script>
     <!-- ADS-END -->
 
-    <link rel="stylesheet" type="text/css" href="{{response.app.url_root}}static/css/site.css">
+    <link rel="stylesheet" type="text/css" href="{{response.app.url_root}}static/css/style.css">
     <style type="text/css">
 {% block style %}{% endblock style %}
     </style>
@@ -189,9 +189,7 @@
 
 <main>
     <article>
-        <h1>{{response.app.page.title}}</h1>
-
-        <div class="maincol small-12 large-9 columns">
+        <div>
             {% block content %}{% endblock content %}
         </div>
     </article>
