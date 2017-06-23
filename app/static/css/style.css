@@ -4,6 +4,10 @@ body {
     background-color: #fafafa;
 }
 
+#rh-subnav {
+	display: none;
+}
+
 .byline {
 	font: bold 20px "Open Sans Condensed", sans-serif;
     text-transform: uppercase;
@@ -46,10 +50,10 @@ h3 {
 	font: normal 14px "Open Sans", sans-serif;
 	line-height: 22px;
     text-transform: uppercase;
-    text-align: center;
+    text-align: left;
     color: #999;
-    margin-bottom: 10px;
-    width: 250px;
+	margin: 10px 30px;
+	width: 250px;
 }
 
 p {
