@@ -168,31 +168,12 @@
         }
     </script>
     <!-- ADS-END -->
-    <script>
-        // Only load foundation.css on handheld devices
-        if ( window.screen.availWidth < 769 || window.innerWidth < 769 )
-        {
-            var link = document.createElement( "link" );
-            link.href = "http://cdn.foundation5.zurb.com/foundation.css";
-            link.type = "text/css";
-            link.rel = "stylesheet";
-            link.media = "screen,print";
-            document.getElementsByTagName("head")[0].appendChild(link);
-        }
-    </script>
 
     <link rel="stylesheet" type="text/css" href="{{response.app.url_root}}static/css/site.css">
     <style type="text/css">
 {% block style %}{% endblock style %}
     </style>
     
-    <script>
-        var iframe = '', kiosk = '';
-        if ( document.location.hash === '#iframe' ) { iframe = 1 }
-        if ( window.top !== window.self ) { iframe = 1; }
-        if ( iframe === '' ) {
-        }
-    </script>
     {% block head %}{% endblock head %}
 
     <script>var nav_params = {section: 'New York', url: 'http://www.nydailynews.com/new-york'};</script>
@@ -207,12 +188,6 @@
     <main>
         <article>
             <p id="datestamp" class="stamp"><span>{{response.app.sitename}}, last updated {{''|next_update('this')}}</span></p>
-            <div id="breadcrumbs">
-                {% block breadcrumbs %}
-                <a href="/">Home</a>
-                &rsaquo; <a href="/next-section">Next Section</a>
-                {% endblock breadcrumbs %}
-            </div>
 
             <h1>{{response.app.page.title}}</h1>
 
