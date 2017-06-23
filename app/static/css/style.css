@@ -36,12 +36,28 @@ h1 {
     margin: 30px;
 }
 
+h2 {
+	font: bold 25px "Open Sans Condensed", sans-serif;
+	text-transform: uppercase;
+	margin-bottom: 10px;
+}
+
+h3 {
+	font: normal 14px "Open Sans", sans-serif;
+	line-height: 22px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #999;
+    margin-bottom: 10px;
+    width: 250px;
+}
+
 p {
     color: #030303;
     font-family: 'PT Serif', serif;
     font-weight: normal;
-    font-size: 18px;
-    line-height: 28px;
+    font-size: 17px;
+    line-height: 27px;
     margin-top: 15px;
 }
 
@@ -62,7 +78,9 @@ hr {
 /*  SECTIONS  */
 
 .section {
-	margin: auto;
+	clear: both;
+	padding: 0px;
+	margin: 0px;
 }
 
 .section-marker {
@@ -77,12 +95,6 @@ hr {
     font-size: 15px;
     letter-spacing: 2px;
  }
-
-.section {
-	clear: both;
-	padding: 0px;
-	margin: 0px;
-}
 
 .section-group {
 	text-align: center;
@@ -105,6 +117,7 @@ hr {
     line-height: 24px;
     text-align: left;
     margin: 5px 30px;
+    width: 250px;
 }
 
 /*  GROUPING  */
@@ -114,15 +127,15 @@ hr {
 .group { zoom:1; /* For IE 6/7 */ }
 
 /*  GRID OF FOUR  */
-.span-4-of-4 {
+.span_4_of_4 {
 	width: 100%;
 }
-.span-3-of-4 {
+.span_3_of_4 {
 	width: 74.87%;
 }
-.span-2-of-4 {
+.span_2_of_4 {
 	width: 49.75%;
 }
-.span-1-of-4 {
+.span_1_of_4 {
 	width: 24.62%;
 }
