@@ -3,7 +3,8 @@ import os
 import json
 from flask import Flask
 from flask import Markup
-from datetime import date
+from flask import g, render_template, url_for, redirect, abort, request
+from datetime import date, timedelta, datetime
 
 app = Flask(__name__)
 app.debug = True
@@ -34,6 +35,31 @@ def index():
         'app': app
     }
     return render_template('index.html', response=response)
+
+@app.template_filter(name='next_update')
+def next_update(blank, value, delta=0):
+    """ When is this / the next Tuesday, Wednesday, Thursday, Friday or Saturday?
+        Returns a formatted date object, ala "Friday Feb. 20"
+        Legit values for var value: "this" and "next"
+        """
+    today = date.today() + timedelta(delta)
+    i = 1
+    if value == 'this':
+        i = 0
+    while i < 7:
+        new_day = today + timedelta(i)
+        wd = new_day.weekday()
+        if wd in [0, 1,2,3,4,5]:
+            return new_day.strftime('%A %b. %d')
+        i += 1
+    pass
+
+@app.template_filter(name='timestamp')
+def timestamp(blank):
+    """ What's the current date and time?
+        """
+    today = datetime.today()
+    return today.strftime("%A %b. %d, %-I:%M %p")
 
 if __name__ == '__main__':
     app.run()
