@@ -20,7 +20,7 @@ body {
 	font: normal 15px "Open Sans", sans-serif;
     text-transform: uppercase;
     text-align: center;
-    color: #999;
+    color: #1F618D;
     margin-bottom: 5px;
 }
 
@@ -44,22 +44,22 @@ h2 {
 	font: bold 25px "Open Sans Condensed", sans-serif;
 	text-transform: uppercase;
 	margin-bottom: 10px;
-    color: #999;
+    color: black;
+    text-align: center;
 }
 
 h3 {
-	font: normal 14px "Open Sans", sans-serif;
+	font: bold 14px "Open Sans", sans-serif;
 	line-height: 22px;
     text-transform: uppercase;
-    text-align: left;
-    color: black;
-	margin: 10px 30px;
+    text-align: center;
+    color: #1F618D;
 	width: 250px;
 }
 
 p {
     color: #333;
-    font-family: 'PT Serif', serif;
+    font: normal 17px "PT Serif", serif;
     font-weight: normal;
     font-size: 17px;
     line-height: 27px;
@@ -80,16 +80,14 @@ hr {
 	border-color: black;
 }
 
-/*  SECTIONS  */
-
-.section {
-	clear: both;
-	padding: 0px;
-	margin: 0px;
+q {
+    quotes: ’\201C’ ‘\201D’;
 }
 
+/*  SECTIONS  */
+
 .section-marker {
-    background-color: #dc1d1c;
+    background-color: #C70039;
     color: white;
     width: 260px;
     margin: 30px auto;
@@ -101,47 +99,21 @@ hr {
     letter-spacing: 2px;
  }
 
-.section-group {
-	text-align: center;
-	margin: 30px;
+.flex-container {
+    padding: 0;
+    margin-bottom: 50px;
+    list-style: none;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    justify-content: space-around;
 }
 
-/*  COLUMN SETUP  */
-.col {
-	display: block;
-	float:left;
-}
-
-.col:first-child { margin-left: 0; }
-
-.span-1-of-4 p {
-    font-family: 'PT Serif', serif;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 24px;
-    text-align: left;
-    margin: 5px 30px;
+.flex-item {
     width: 250px;
-}
-
-/*  GROUPING  */
-.group:before,
-.group:after { content:""; display:table; }
-.group:after { clear:both;}
-.group { zoom:1; /* For IE 6/7 */ }
-
-/*  GRID OF FOUR  */
-.span_4_of_4 {
-	width: 100%;
-}
-.span_3_of_4 {
-	width: 74.87%;
-}
-.span_2_of_4 {
-	width: 49.75%;
-}
-.span_1_of_4 {
-	width: 24.62%;
 }
 
 /*  READ MORE HANDLER  */
@@ -151,12 +123,7 @@ hr {
 }
 
 #read-more {
-    max-height: 500px;
-    height: auto;
-    font-family: "Open Sans Condensed";
     position: relative;
-    font-size: 13px;
-    line-height: 18px;
     cursor: pointer;
 }
 
@@ -166,26 +133,27 @@ hr {
 
 #read-more.collapsed:after {
     content: "Read More \25BE";
-    width: 100%;
+    width: 250px;
+    padding: 5px 10px 5px 0;
     bottom: -1px;
     z-index: 1;
     text-align: right;
-    padding: 2px 12px;
     transition: bottom .4s;
-    background: linear-gradient(to right,transparent 0,#999 75%,#999 100%);
+    background: linear-gradient(to right,transparent 0,#8fb0c6 80%,#8fb0c6 100%);
 }
 
 #read-more:after {
     content: "Read Less \25B4";
     display: block;
-    width: 68px;
+    width: 250px;
     position: absolute;
-    bottom: -25px;
-    right: 30px;
+    right: 2px;
     text-transform: uppercase;
     color: white;
     cursor: pointer;
     font: bold 15px "Open Sans Condensed", sans-serif;
+    text-align: right;
+    padding: 5px 10px 5px 0;
     transition: bottom .4s;
-    background: linear-gradient(to right,transparent 0,#999 75%,#999 100%);
+    background: linear-gradient(to right,transparent 0,#8fb0c6 80%,#8fb0c6 100%);
 }
