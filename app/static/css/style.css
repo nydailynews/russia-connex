@@ -44,6 +44,7 @@ h2 {
 	font: bold 25px "Open Sans Condensed", sans-serif;
 	text-transform: uppercase;
 	margin-bottom: 10px;
+    color: #999;
 }
 
 h3 {
@@ -51,13 +52,13 @@ h3 {
 	line-height: 22px;
     text-transform: uppercase;
     text-align: left;
-    color: #999;
+    color: black;
 	margin: 10px 30px;
 	width: 250px;
 }
 
 p {
-    color: #030303;
+    color: #333;
     font-family: 'PT Serif', serif;
     font-weight: normal;
     font-size: 17px;
@@ -114,7 +115,6 @@ hr {
 .col:first-child { margin-left: 0; }
 
 .span-1-of-4 p {
-	color: #030303;
     font-family: 'PT Serif', serif;
     font-weight: normal;
     font-size: 16px;
@@ -142,4 +142,50 @@ hr {
 }
 .span_1_of_4 {
 	width: 24.62%;
+}
+
+/*  READ MORE HANDLER  */
+#read-more.collapsed {
+    max-height: 125px;
+    overflow: hidden;
+}
+
+#read-more {
+    max-height: 500px;
+    height: auto;
+    font-family: "Open Sans Condensed";
+    position: relative;
+    font-size: 13px;
+    line-height: 18px;
+    cursor: pointer;
+}
+
+#read-more:before {
+    display: none;
+    }
+
+#read-more.collapsed:after {
+    content: "Read More \25BE";
+    width: 100%;
+    bottom: -1px;
+    z-index: 1;
+    text-align: right;
+    padding: 2px 12px;
+    transition: bottom .4s;
+    background: linear-gradient(to right,transparent 0,#999 75%,#999 100%);
+}
+
+#read-more:after {
+    content: "Read Less \25B4";
+    display: block;
+    width: 68px;
+    position: absolute;
+    bottom: -25px;
+    right: 30px;
+    text-transform: uppercase;
+    color: white;
+    cursor: pointer;
+    font: bold 15px "Open Sans Condensed", sans-serif;
+    transition: bottom .4s;
+    background: linear-gradient(to right,transparent 0,#999 75%,#999 100%);
 }
