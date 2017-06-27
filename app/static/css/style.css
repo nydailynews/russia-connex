@@ -90,7 +90,7 @@ q {
     background-color: #C70039;
     color: white;
     width: 260px;
-    margin: 30px auto;
+    margin: 25px auto;
     padding: 10px;
     text-align: center;
     text-transform: uppercase;
@@ -114,6 +114,7 @@ q {
 
 .flex-item {
     width: 250px;
+    margin: 10px;
 }
 
 /*  READ MORE HANDLER  */
