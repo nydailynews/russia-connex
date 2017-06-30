@@ -25,7 +25,7 @@ body {
 }
 
 .intro {
-    max-width: 800px;
+    max-width: 900px;
     margin: auto;
 }
 
@@ -54,7 +54,7 @@ h3 {
     text-transform: uppercase;
     text-align: center;
     color: #1F618D;
-	width: 250px;
+	width: 270px;
 }
 
 p {
@@ -81,7 +81,7 @@ hr {
 }
 
 q {
-    quotes: ’\201C’ ‘\201D’;
+    quotes: '\201C' '\201D';
 }
 
 /*  SECTIONS  */
@@ -101,7 +101,7 @@ q {
 
 .flex-container {
     padding: 0;
-    margin-bottom: 50px;
+    margin: 0 50px 50px 50px;
     list-style: none;
     display: -webkit-box;
     display: -moz-box;
@@ -113,14 +113,20 @@ q {
 }
 
 .flex-item {
-    width: 250px;
+    width: 270px;
     margin: 10px;
+    text-align: center;
+}
+
+.flex-item p {
+    text-align: left;
 }
 
 /*  READ MORE HANDLER  */
 #read-more.collapsed {
     max-height: 125px;
     overflow: hidden;
+    margin-bottom: 40px;
 }
 
 #read-more {
@@ -134,7 +140,7 @@ q {
 
 #read-more.collapsed:after {
     content: "Read More \25BE";
-    width: 250px;
+    width: 270px;
     padding: 5px 10px 5px 0;
     bottom: -1px;
     z-index: 1;
@@ -146,7 +152,7 @@ q {
 #read-more:after {
     content: "Read Less \25B4";
     display: block;
-    width: 250px;
+    width: 270px;
     position: absolute;
     right: 2px;
     text-transform: uppercase;
@@ -157,4 +163,10 @@ q {
     padding: 5px 10px 5px 0;
     transition: bottom .4s;
     background: linear-gradient(to right,transparent 0,#8fb0c6 80%,#8fb0c6 100%);
+}
+
+HANDHELD RULES
+
+@media screen and (min-device-width: 320px) {
+  article p { margin: 25px; }
 }
