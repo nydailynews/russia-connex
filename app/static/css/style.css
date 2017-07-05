@@ -84,6 +84,10 @@ q {
     quotes: '\201C' '\201D';
 }
 
+img {
+    max-height: 170px;
+}
+
 /*  SECTIONS  */
 
 .section-marker {
