@@ -41,6 +41,19 @@ h1 {
 }
 
 h2 {
+    background-color: #C70039;
+    color: white;
+    width: 260px;
+    margin: 25px auto;
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    letter-spacing: 2px;
+ }
+
+h3 {
 	font: bold 25px "Open Sans Condensed", sans-serif;
 	text-transform: uppercase;
 	margin-bottom: 10px;
@@ -48,7 +61,7 @@ h2 {
     text-align: center;
 }
 
-h3 {
+h4 {
 	font: bold 14px "Open Sans", sans-serif;
 	line-height: 22px;
     text-transform: uppercase;
@@ -89,19 +102,6 @@ img {
 }
 
 /*  SECTIONS  */
-
-.section-marker {
-    background-color: #C70039;
-    color: white;
-    width: 260px;
-    margin: 25px auto;
-    padding: 10px;
-    text-align: center;
-    text-transform: uppercase;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 15px;
-    letter-spacing: 2px;
- }
 
 .flex-container {
     padding: 0;
