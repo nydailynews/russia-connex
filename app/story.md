@@ -31,27 +31,27 @@ He said in a 2008 real estate conference that the Trump family has <q>a lot of m
 ## Trump associates
 ![Jeff Sessions](/static/img/sessions.png)
 ### Jeff Sessions
-#### Former U.S. Senator and now Trump’s Attorney General
-Sessions recused himself from the criminal investigation after the Washington Post revealed in March that he spoke with Russian Ambassador Sergey Kislyak twice during the 2016 campaign and did not reveal those talks during his confirmation hearing. Two Democratic senators have alleged that Sessions had even more campaign meetings with Kislyak that have still been kept secret. Sessions’ future with the Trump administration is now in question. Sessions reportedly has considered resigning after Trump has hammered him for months for recusing himself.
+#### Former U.S. Senator and now Trump's Attorney General
+Sessions recused himself from the criminal investigation after the Washington Post revealed in March that he spoke with Russian Ambassador Sergey Kislyak twice during the 2016 campaign and did not reveal those talks during his confirmation hearing. Two Democratic senators have alleged that Sessions had even more campaign meetings with Kislyak that have still been kept secret. Sessions' future with the Trump administration is now in question. Sessions reportedly has considered resigning after Trump has hammered him for months for recusing himself.
 
 ![Michael Flynn](/static/img/flynn.png)
 ### Michael Flynn
 #### retired Army general who resigned as national security adviser
-In February reports revealed that he secretly spoke with Russian Ambassador Sergey Kislyak in December 2016 about sanctions placed on Russia by the Obama administration. The White House has said there was nothing improper about those talks, but that he was fired for lying about their content to Vice-President Mike Pence. Flynn was also present at a December meeting between Kislyak and Jared Kushner in Trump Tower. Flynn’s previous work as a consultant brought him into financial arrangements with Turkey and Ukraine, and in 2015 the state-run Russian media network RT paid Flynn at least $45,000 to deliver a speech at an event where he was seated next to Russian President Vladimir Putin. Flynn has been subpoenaed to testify before the Senate Intelligence Committee but has not been cooperating.
+In February reports revealed that he secretly spoke with Russian Ambassador Sergey Kislyak in December 2016 about sanctions placed on Russia by the Obama administration. The White House has said there was nothing improper about those talks, but that he was fired for lying about their content to Vice-President Mike Pence. Flynn was also present at a December meeting between Kislyak and Jared Kushner in Trump Tower. Flynn's previous work as a consultant brought him into financial arrangements with Turkey and Ukraine, and in 2015 the state-run Russian media network RT paid Flynn at least $45,000 to deliver a speech at an event where he was seated next to Russian President Vladimir Putin. Flynn has been subpoenaed to testify before the Senate Intelligence Committee but has not been cooperating.
 
 ![Paul Manafort](/static/img/manafort.png)
 ### Paul Manafort
-#### The second of Trump’s three campaign managers
-Manafort resigned in August 2016 after reports that he lobbied for Ukraine’s pro-Russian government in return for big bucks. Manafort’s foreign financial ties are now being investigated by the CIA, NSA, FBI, Director of National Intelligence and the Treasury Department.
+#### The second of Trump's three campaign managers
+Manafort resigned in August 2016 after reports that he lobbied for Ukraine's pro-Russian government in return for big bucks. Manafort's foreign financial ties are now being investigated by the CIA, NSA, FBI, Director of National Intelligence and the Treasury Department.
 
 ![Roger Stone](/static/img/stone.png)
 ### Roger Stone
-#### A gadfly Republican consultant who worked on Trump’s campaign
-The criminal probe is looking into his potential contacts with Russian operatives. Stone has admitted to secretly speaking with WikiLeaks founder Julian Assange and supposed hacker Guccifer 2.0 (see <q>Foreign players,</q> below), but he has denied any Russia ties or advanced knowledge of the cyberattacks on Clinton’s campaign.
+#### A gadfly Republican consultant who worked on Trump's campaign
+The criminal probe is looking into his potential contacts with Russian operatives. Stone has admitted to secretly speaking with WikiLeaks founder Julian Assange and supposed hacker Guccifer 2.0 (see <q>Foreign players,</q> below), but he has denied any Russia ties or advanced knowledge of the cyberattacks on Clinton's campaign.
 
 ![Michael Cohen](/static/img/cohen.png)
 ### Michael Cohen
-#### Trump’s personal lawyer is under investigation
+#### Trump's personal lawyer is under investigation
 Cohen has become a focus of the House and Senate investigations for unclear reasons. An unverified intelligence dossier about Trump (see Christopher Steele, below) alleged that Cohen met with Russian officials during the campaign, something Cohen has denied.
 
 ![Boris Epshteyn](/static/img/epshteyn.png)
@@ -66,19 +66,19 @@ Caputo has been asked to provide documents and an interview for the House invest
 
 ![Carter Page](/static/img/page.png)
 ### Carter Page
-#### A foreign policy adviser for Trump’s campaign
-The FBI obtained a court order to surveil Page’s communications after suspicions that he interacted with Russian officials during the campaign. Page, an oil industry consultant, denied any contact but did not deny reports that he spoke with Kislyak during the Republican National Convention. Prosecutors say Russian spies tried to recruit him in an unrelated scheme in 2013.
+#### A foreign policy adviser for Trump's campaign
+The FBI obtained a court order to surveil Page's communications after suspicions that he interacted with Russian officials during the campaign. Page, an oil industry consultant, denied any contact but did not deny reports that he spoke with Kislyak during the Republican National Convention. Prosecutors say Russian spies tried to recruit him in an unrelated scheme in 2013.
 ^^^^^^
 ## Federal (and former) investigators
 ![James Comey](/static/img/comey.png)
 ### James Comey
 #### Former FBI director who Trump abruptly fired in May
-He is expected to testify before the Senate Intelligence Committee on Thursday. Comey revealed weeks before his ouster that he was investigating the Trump campaign — an unusual disclosure for an active inquiry. An advanced copy of his Senate testimony has Comey detailing how Trump repeatedly met with him since January, asking him to drop the probe into Flynn and to pledge his "loyalty." Comey assured Trump that he, personally, was not being investigated, but he declined to go public with that detail because he could not be sure a Trump investigation would never start.
+He is expected to testify before the Senate Intelligence Committee on Thursday. Comey revealed weeks before his ouster that he was investigating the Trump campaign -- an unusual disclosure for an active inquiry. An advanced copy of his Senate testimony has Comey detailing how Trump repeatedly met with him since January, asking him to drop the probe into Flynn and to pledge his "loyalty." Comey assured Trump that he, personally, was not being investigated, but he declined to go public with that detail because he could not be sure a Trump investigation would never start.
 
 ![Robert Mueller](/static/img/mueller.png)
 ### Robert Mueller
 #### Special Counsel leading the criminal investigation
-After Comey's firing, Mueller — a former FBI director — has been assembling an all-star prosecution team with lawyers who worked on Watergate and the Enron collapse.
+After Comey's firing, Mueller -- a former FBI director -- has been assembling an all-star prosecution team with lawyers who worked on Watergate and the Enron collapse.
 
 ![Rod Rosenstein](/static/img/rosenstein.png)
 ### Rod Rosenstein
@@ -87,7 +87,7 @@ He appointed Mueller and also wrote a critical letter about Comey that was initi
 
 ![Sally Yates](/static/img/yates.png)
 ### Sally Yates
-#### former acting attorney general fired by Trump
+#### Former acting attorney general fired by Trump
 She was fired only days into Trump's presidency. Yates testified before the Senate Judiciary Committee that she warned White House officials that Mike Flynn had lied to FBI agents about the subject of his conversation with Russian diplomat Sergey Kislyak and that the Russians could potentially use that information to blackmail him. The White House did not take any action about her concerns until they were reported by the Washington Post weeks later.
 
 ![Rep. Devin Nunes](/static/img/nunes.png)
@@ -107,12 +107,12 @@ He recused himself from the committee's investigation after allegations that he 
 ![Nigel Farage](/static/img/farage.png)
 ### Nigel Farage
 #### A leader of the U.K. Brexit movement
-Farage has been named as <q>person of interest</q> in the criminal investigation. He is a strong ally of Trump’s and also has nebulous associations with Russia’s RT news network and with WikiLeaks founder Julian Assange. Farage has denied any connection to alleged wrongdoing.
+Farage has been named as <q>person of interest</q> in the criminal investigation. He is a strong ally of Trump's and also has nebulous associations with Russia's RT news network and with WikiLeaks founder Julian Assange. Farage has denied any connection to alleged wrongdoing.
 
 ![Julian Assange](/static/img/assange.png)
 ### Julian Assange
-#### The founder of WikiLeaks, a “not-for-profit media organization”
-WikiLeaks published stolen emails from the Democratic National Committee and from Clinton’s campaign in the final stretch of the 2016 race. The Obama administration alleged that Russia was the source of the hacked emails and used WikiLeaks as an intermediary for publishing them, but Assange has repeatedly denied this. Assange met with Nigel Farage in March and there have been no details released about their discussion.
+#### The founder of WikiLeaks, a <q>not-for-profit media organization</q>
+WikiLeaks published stolen emails from the Democratic National Committee and from Clinton's campaign in the final stretch of the 2016 race. The Obama administration alleged that Russia was the source of the hacked emails and used WikiLeaks as an intermediary for publishing them, but Assange has repeatedly denied this. Assange met with Nigel Farage in March and there have been no details released about their discussion.
 
 ![Guccifer 2.0](/static/img/guccifer.png)
 ### Guccifer 2.0
@@ -122,7 +122,7 @@ This supposed hacker has not been officially identified and the U.S. intelligenc
 ![Sergey Kislyak](/static/img/kislyak.png)
 ### Sergey Kislyak
 #### Recently recalled Russian Ambassador to the United States
-Kislyak keeps getting Trump people in trouble just by talking to them. Michael Flynn resigned after talking to him. Jeff Sessions recused himself from the criminal probe for talking to him. And Kislyak was with Russian Foreign Minister Sergey Lavrov at the White House when Trump revealed highly classified information from an Israeli intelligence source the day after Comey’s firing.
+Kislyak keeps getting Trump people in trouble just by talking to them. Michael Flynn resigned after talking to him. Jeff Sessions recused himself from the criminal probe for talking to him. And Kislyak was with Russian Foreign Minister Sergey Lavrov at the White House when Trump revealed highly classified information from an Israeli intelligence source the day after Comey's firing.
 
 ![Sergey Lavrov](/static/img/lavrov.png)
 ### Sergey Lavrov
