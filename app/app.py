@@ -5,7 +5,8 @@ from flask import Flask
 from flask import Markup
 from flask import g, render_template, url_for, redirect, abort, request
 from datetime import date, timedelta, datetime
-from misaka import Markdown, HtmlRenderer
+#from misaka import Markdown, HtmlRenderer
+import misaka as m
 
 
 app = Flask(__name__)
@@ -33,13 +34,15 @@ def index():
     app.page['title'] = ''
     app.page['description'] = ''
 
-    content = {}
-    rndr = HtmlRenderer()
-    md = Markdown(rndr)
+    content = { 'story': '', 'sections': [] }
+    #rndr = HtmlRenderer()
+    #md = Markdown(rndr)
     fh = open('story.md', 'rb')
-    story = fh.read()
-    print md(story)
-    content['intro'] = md(story)
+    story = fh.read().split('^^^^^^')
+    content['intro'] = m.html(story[0])
+    
+    for item in story[1:]:
+        content['sections'].append(m.html(item))
 
     response = {
         'app': app,
