@@ -41,8 +41,19 @@ def index():
     story = fh.read().split('^^^^^^')
     content['intro'] = m.html(story[0])
     
-    for item in story[1:]:
-        content['sections'].append(m.html(item))
+    for section in story[1:]:
+        items = []
+        parts = section.split("\n\n")
+        for item in parts:
+            items.append(m.html(item))
+        markup = '</li><li>\n'.join(items)
+        
+        # Add the hr's
+        markup = markup.replace('</h3>', '</h3>\n<hr>')
+        # Add the opening ul
+        markup = markup.replace('</h2>', '</h2>\n<ul><li>')
+
+        content['sections'].append('%s\n</ul>' % markup)
 
     response = {
         'app': app,

@@ -8,13 +8,10 @@ Here's a look at who's who at a glance, and how they're connected.
 
 ^^^^^^
 ## The Trump family
-
 ![Donald Trump](/static/img/trump.png)
 ### Donald Trump
 #### Became the 45th president in a surprise 2016 victory
-<div id="read-more" class="collapsed" onclick="clicker();">
 Evidence is consistently surfacing that Trump or people in his orbit may have had some kind of interaction with the Russian government during the campaign, but Trump has denied having any political or business ties. According to the Senate Intelligence Committee testimony of former FBI Director James Comey, Trump asked Comey to back off of the criminal investigation into campaign adviser turned National Security Adviser Michael Flynn's ties to Russia. He also reportedly ordered Director of National Intelligence Dan Coats and NSA Chief Mike Rogers to publicly say there was no wrongdoing on Trump's behalf, and told them to get Comey to lay off of Flynn.
-</div>
 
 ![Jared Kushner](/static/img/kushner.png)
 ### Jared Kushner
