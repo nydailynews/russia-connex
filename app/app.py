@@ -35,8 +35,6 @@ def index():
     app.page['description'] = ''
 
     content = { 'story': '', 'sections': [] }
-    #rndr = HtmlRenderer()
-    #md = Markdown(rndr)
     fh = open('story.md', 'rb')
     story = fh.read().split('^^^^^^')
     content['intro'] = m.html(story[0])
