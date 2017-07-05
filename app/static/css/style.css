@@ -103,7 +103,7 @@ img {
 
 /*  SECTIONS  */
 
-.flex-container {
+section#profiles ul {
     padding: 0;
     margin: 0 50px 50px 50px;
     list-style: none;
@@ -116,13 +116,13 @@ img {
     justify-content: space-around;
 }
 
-.flex-item {
+section#profiles ul li {
     width: 270px;
     margin: 10px;
     text-align: center;
 }
 
-.flex-item p {
+section#profiles ul li p {
     text-align: left;
 }
 
