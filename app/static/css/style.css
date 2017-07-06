@@ -79,7 +79,7 @@ p {
     margin-top: 15px;
 }
 
-p.dropcap:first-letter {
+div.intro p#datestamp + p:first-letter {
     text-transform: uppercase;
     float: left;
     font-size: 53px;
