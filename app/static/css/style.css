@@ -140,7 +140,7 @@ section#profiles ul li p {
 
 .read-more:before {
     display: none;
-    }
+}
 
 .read-more.collapsed:after {
     content: "Read More \25BE";
@@ -170,7 +170,3 @@ section#profiles ul li p {
 }
 
 /* HANDHELD RULES */
-
-@media screen and (min-device-width: 320px) {
-  article p { margin: 25px; }
-}
