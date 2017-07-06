@@ -5,7 +5,7 @@ import sys
 import os
 import doctest
 from flask_frozen import Freezer
-from application import app
+from app import app
 
 app.debug = False
 environ = os.getenv('environ', 'DEV')
@@ -24,13 +24,12 @@ class FreezeThings:
             >>> f = FreezeThings()
             """
         self.freezer = Freezer(app)
-        self.chapters_all = app.chapters
 
     def freeze_urls(self, path):
         """ Freeze one url (if passed a path) or a handful (if passed a list
             of paths).
             >>> f = FreezeThings()
-            >>> f.freeze_urls('/chapter/01/')
+            >>> f.freeze_urls('/')
             """
         @self.freezer.register_generator
         def freeze_urls():

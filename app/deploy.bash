@@ -3,8 +3,8 @@
 ENVIRON='PROD'
 export environ=$ENVIRON
 SERVER='qa'
-DIR='/path/to/project/root/'
-PROJECT='projectname'
+DIR='/apps/project/connect-russia/'
+PROJECT='connect-russia'
 LOCATION_OVERRIDE=0
 html_only() { 
     echo ''
