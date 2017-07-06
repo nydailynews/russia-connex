@@ -52,7 +52,7 @@ def index():
         markup = '</div>\n</li>\n\n<li>\n'.join(items)
         
         # Add the hr's
-        markup = markup.replace('</h3>', '</h3>\n<hr>')
+        markup = markup.replace('<h3>', '<hr>\n<h3>')
         # Add the opening ul
         markup = markup.replace('</h2>', '</h2>\n<ul><li>')
         # Add the closing ul
