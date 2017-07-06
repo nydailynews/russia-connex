@@ -5,7 +5,6 @@ There is the criminal investigation being led Special Counsel Robert Mueller on 
 All of these investigations are centered on the same central topics: What role Russian hackers played in the 2016 campaign, and whether the Trump campaign colluded with the Russian government. Most of these investigations also have the same players overlapping, as well as some side characters whose ultimate significance may not yet be fully understood.
 
 Here's a look at who's who at a glance, and how they're connected.
-
 ^^^^^^
 ## The Trump family
 ![Donald Trump](/static/img/trump.png)

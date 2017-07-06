@@ -17,16 +17,14 @@
 
     <p class="byline">By Jason Silverstein</p>
 
-    <p id="datestamp" class="stamp">Last updated {{''|next_update('this')}}</p>
+    <p id="datestamp" class="stamp">Last updated {{''|last_update()}}</p>
 
 {{response.content.intro|safe}}
-
 </div>
 
 <section id="profiles">
     {% for item in response.content.sections %}
     {{item|safe}}
     {% endfor %}
-
 </section>
 {% endblock content %}

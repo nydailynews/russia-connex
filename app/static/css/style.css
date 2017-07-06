@@ -127,22 +127,22 @@ section#profiles ul li p {
 }
 
 /*  READ MORE HANDLER  */
-#read-more.collapsed {
+.read-more.collapsed {
     max-height: 125px;
     overflow: hidden;
     margin-bottom: 40px;
 }
 
-#read-more {
+.read-more {
     position: relative;
     cursor: pointer;
 }
 
-#read-more:before {
+.read-more:before {
     display: none;
     }
 
-#read-more.collapsed:after {
+.read-more.collapsed:after {
     content: "Read More \25BE";
     width: 270px;
     padding: 5px 10px 5px 0;
@@ -153,7 +153,7 @@ section#profiles ul li p {
     background: linear-gradient(to right,transparent 0,#8fb0c6 80%,#8fb0c6 100%);
 }
 
-#read-more:after {
+.read-more:after {
     content: "Read Less \25B4";
     display: block;
     width: 270px;
@@ -169,7 +169,7 @@ section#profiles ul li p {
     background: linear-gradient(to right,transparent 0,#8fb0c6 80%,#8fb0c6 100%);
 }
 
-HANDHELD RULES
+/* HANDHELD RULES */
 
 @media screen and (min-device-width: 320px) {
   article p { margin: 25px; }

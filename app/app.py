@@ -1,11 +1,11 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import os
 import json
 from flask import Flask
 from flask import Markup
 from flask import g, render_template, url_for, redirect, abort, request
-from datetime import date, timedelta, datetime
-#from misaka import Markdown, HtmlRenderer
+from datetime import date, datetime
 import misaka as m
 
 
@@ -31,27 +31,32 @@ with app.app_context():
 
 @app.route('/')
 def index():
-    app.page['title'] = ''
-    app.page['description'] = ''
+    app.page['title'] = 'Here’s what we know about Donald Trump’s ties to Russia, by the New York Daily News'.decode('utf-8')
+    app.page['description'] = 'A regularly-updated index of Donald Trump’s ties to Russia, by NY Daily News reporter Jason Silverstein'.decode('utf-8')
 
-    content = { 'story': '', 'sections': [] }
+    content = { 'intro': '', 'sections': [] }
     fh = open('story.md', 'rb')
+    
     story = fh.read().split('^^^^^^')
     content['intro'] = m.html(story[0])
-    
+    i = 0
     for section in story[1:]:
         items = []
         parts = section.split("\n\n")
         for item in parts:
-            items.append(m.html(item))
-        markup = '</li><li>\n'.join(items)
+            mkup = m.html(item)
+            mkup = mkup.replace('</h4>', '</h4>\n<div id="read-more-%d" class="read-more collapsed" onclick="clicker(%d);">' % (i, i))
+            items.append(mkup)
+            i += 1
+
+        markup = '</div>\n</li>\n\n<li>\n'.join(items)
         
         # Add the hr's
         markup = markup.replace('</h3>', '</h3>\n<hr>')
         # Add the opening ul
         markup = markup.replace('</h2>', '</h2>\n<ul><li>')
-
-        content['sections'].append('%s\n</ul>' % markup)
+        # Add the closing ul
+        content['sections'].append('%s\n</div>\n</li>\n</ul>' % markup)
 
     response = {
         'app': app,
@@ -59,23 +64,14 @@ def index():
     }
     return render_template('index.html', response=response)
 
-@app.template_filter(name='next_update')
-def next_update(blank, value, delta=0):
-    """ When is this / the next Tuesday, Wednesday, Thursday, Friday or Saturday?
+@app.template_filter(name='last_update')
+def last_update(blank):
+    """ Returns the current date. That means every time the project is deployed,
+        the datestamp will update.
         Returns a formatted date object, ala "Friday Feb. 20"
-        Legit values for var value: "this" and "next"
         """
-    today = date.today() + timedelta(delta)
-    i = 1
-    if value == 'this':
-        i = 0
-    while i < 7:
-        new_day = today + timedelta(i)
-        wd = new_day.weekday()
-        if wd in [0, 1,2,3,4,5]:
-            return new_day.strftime('%A %b. %d')
-        i += 1
-    pass
+    today = date.today()
+    return today.strftime('%A %b. %d')
 
 @app.template_filter(name='timestamp')
 def timestamp(blank):

@@ -172,11 +172,11 @@
     <script src="http://interactive.nydailynews.com/js/jquery.min.js"></script>
     
     <script>
-    var clicker = function (){if($("#read-more").hasClass("collapsed")){expand();}else{collapse();}}
+    var clicker = function (id) {if($("#read-more-" + id).hasClass("collapsed")){expand(id);}else{collapse(id);}}
 
-    var expand = function (){$("#read-more").stop().addClass("on").animate({"max-height":"800px"},200,function(){$("#read-more").removeClass("collapsed");});}
+    var expand = function (id){$("#read-more-" + id).stop().addClass("on").animate({"max-height":"800px"},200,function(){$("#read-more-" + id).removeClass("collapsed");});}
 
-    var collapse = function (){$("#read-more").stop().removeClass("on").animate({"max-height":"125px"},200,function(){$("#read-more").addClass("collapsed");});}
+    var collapse = function (id){$("#read-more-" + id).stop().removeClass("on").animate({"max-height":"125px"},200,function(){$("#read-more-" + id).addClass("collapsed");});}
     </script>
 
     <link rel="stylesheet" type="text/css" href="{{response.app.url_root}}static/css/style.css">
