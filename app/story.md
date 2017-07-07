@@ -84,12 +84,12 @@ After Comey's firing, Mueller -- a former FBI director -- has been assembling an
 #### The deputy attorney general and investigating Sessions' recusal
 He appointed Mueller and also wrote a critical letter about Comey that was initially cited as a major reason for Trump firing him. Trump later said it was his decision alone to fire Comey.
 
-![Sally Yates](static/img/yates.png)
+![Sally Yates](static/img/yates.gif)
 ### Sally Yates
 #### Former acting attorney general fired by Trump
 She was fired only days into Trump's presidency. Yates testified before the Senate Judiciary Committee that she warned White House officials that Mike Flynn had lied to FBI agents about the subject of his conversation with Russian diplomat Sergey Kislyak and that the Russians could potentially use that information to blackmail him. The White House did not take any action about her concerns until they were reported by the Washington Post weeks later.
 
-![Rep. Devin Nunes](static/img/nunes.png)
+![Rep. Devin Nunes](static/img/nunes.gif)
 ### Rep. Devin Nunes
 #### (R-Calif.) Chairman of the House Intelligence Committee
 He recused himself from the committee's investigation after allegations that he mishandled classified information in the case and had appeared to be coordinating the White House.
@@ -108,7 +108,7 @@ He recused himself from the committee's investigation after allegations that he 
 #### A leader of the U.K. Brexit movement
 Farage has been named as <q>person of interest</q> in the criminal investigation. He is a strong ally of Trump's and also has nebulous associations with Russia's RT news network and with WikiLeaks founder Julian Assange. Farage has denied any connection to alleged wrongdoing.
 
-![Julian Assange](static/img/assange.png)
+![Julian Assange](static/img/assange.gif)
 ### Julian Assange
 #### The founder of WikiLeaks, a <q>not-for-profit media organization</q>
 WikiLeaks published stolen emails from the Democratic National Committee and from Clinton's campaign in the final stretch of the 2016 race. The Obama administration alleged that Russia was the source of the hacked emails and used WikiLeaks as an intermediary for publishing them, but Assange has repeatedly denied this. Assange met with Nigel Farage in March and there have been no details released about their discussion.
