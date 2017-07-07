@@ -17,7 +17,7 @@ Evidence is consistently surfacing that Trump or people in his orbit may have ha
 #### Trump's son-in-law, who serves as one of his closest advisers
 Kushner had denied having any interactions with Russian officials during the campaign, but subsequently acknowledged having two meetings. Reuters reported in May that Kushner allegedly spoke with Kremlin officials last year about setting up a secret backchannel to communicate about diplomatic matters. Around the same time, Kushner also met with the chief executive of a state-owned bank who has ties to Putin, and it is not clear why. Kushner has reportedly become a focus of the criminal investigation, but he faces no charges or specific allegations.
 
-![Eric Trump](static/img/eric-trump.png)
+![Eric Trump](static/img/eric-trump.gif)
 ### Eric Trump
 #### Trump's oldest son who runs the Trump Organization
 Golf writer James Dodson claimed this year that Eric in 2014 told him that Russia gives the family <q>all the funds we need</q> for their golf courses. Eric has denied this encounter happened.
