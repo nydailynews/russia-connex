@@ -48,7 +48,7 @@ Manafort resigned in August 2016 after reports that he lobbied for Ukraine's pro
 #### A gadfly Republican consultant who worked on Trump's campaign
 The criminal probe is looking into his potential contacts with Russian operatives. Stone has admitted to secretly speaking with WikiLeaks founder Julian Assange and supposed hacker Guccifer 2.0 (see <q>Foreign players,</q> below), but he has denied any Russia ties or advanced knowledge of the cyberattacks on Clinton's campaign.
 
-![Michael Cohen](static/img/cohen.png)
+![Michael Cohen](static/img/cohen.gif)
 ### Michael Cohen
 #### Trump's personal lawyer is under investigation
 Cohen has become a focus of the House and Senate investigations for unclear reasons. An unverified intelligence dossier about Trump (see Christopher Steele, below) alleged that Cohen met with Russian officials during the campaign, something Cohen has denied.
