@@ -1,9 +1,11 @@
 #!/bin/bash
 # scp flat files to prod.
+# Deploy to QA: ./deploy.bash
+# Deploy to prod: ./deploy.bash --server prod
 ENVIRON='PROD'
 export environ=$ENVIRON
 SERVER='qa'
-DIR='/apps/project/connect-russia/'
+DIR='/apps/project/'
 PROJECT='connect-russia'
 LOCATION_OVERRIDE=0
 html_only() { 

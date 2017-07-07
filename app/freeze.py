@@ -10,7 +10,7 @@ from app import app
 app.debug = False
 environ = os.getenv('environ', 'DEV')
 if environ == 'PROD':
-    app.url_root = '/path/to/project/root/'
+    app.url_root = '/project/connect-russia/'
 
 class FreezeThings:
     """ We put the Flask Frozen methods in this class so we don't have to
