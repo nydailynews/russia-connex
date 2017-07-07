@@ -93,6 +93,15 @@ hr {
 	border-color: black;
 }
 
+.latest-news {
+    text-align: center;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 12px;
+}
+
 q {
     quotes: '\201C' '\201D';
 }
