@@ -38,7 +38,7 @@ Sessions recused himself from the criminal investigation after the Washington Po
 #### retired Army general who resigned as national security adviser
 In February reports revealed that he secretly spoke with Russian Ambassador Sergey Kislyak in December 2016 about sanctions placed on Russia by the Obama administration. The White House has said there was nothing improper about those talks, but that he was fired for lying about their content to Vice-President Mike Pence. Flynn was also present at a December meeting between Kislyak and Jared Kushner in Trump Tower. Flynn's previous work as a consultant brought him into financial arrangements with Turkey and Ukraine, and in 2015 the state-run Russian media network RT paid Flynn at least $45,000 to deliver a speech at an event where he was seated next to Russian President Vladimir Putin. Flynn has been subpoenaed to testify before the Senate Intelligence Committee but has not been cooperating.
 
-![Paul Manafort](static/img/manafort.png)
+![Paul Manafort](static/img/manafort.gif)
 ### Paul Manafort
 #### The second of Trump's three campaign managers
 Manafort resigned in August 2016 after reports that he lobbied for Ukraine's pro-Russian government in return for big bucks. Manafort's foreign financial ties are now being investigated by the CIA, NSA, FBI, Director of National Intelligence and the Treasury Department.
