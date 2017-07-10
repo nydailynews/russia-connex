@@ -2,7 +2,7 @@
 A small flask & markdown app to publish profiles of Trump's Russian connections.
 
 ## Updating the content
-1. [Open the app directory, click on the story.md file](master/app/story.md)
+1. [Open the app directory, click on the story.md file](app/story.md)
 2. Click the pencil icon to edit story.md.
 3. Here are some basics on editing the document:
 * To make something *bold*, `wrap the text you want to be bold *in asterisks*`.
