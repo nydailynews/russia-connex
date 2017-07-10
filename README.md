@@ -5,9 +5,9 @@ A small flask & markdown app to publish profiles of Trump's Russian connections.
 1. [Open the app directory, click on the story.md file](master/app/story.md)
 2. Click the pencil icon to edit story.md.
 3. Here are some basics on editing the document:
-** To make something *bold*, `wrap the text you want to be bold *in asterisks*`.
-** To make something _italic_, `wrap the text you want to be italic _in underscores_`.
-** To make something [a link](), `wrap the linked text in square brackets, and then put the url in parens right after, [like so](http://www.nydailynews.com/)`
+* To make something *bold*, `wrap the text you want to be bold *in asterisks*`.
+* To make something _italic_, `wrap the text you want to be italic _in underscores_`.
+* To make something [a link](), `wrap the linked text in square brackets, and then put the url in parens right after, [like so](http://www.nydailynews.com/)`
 
 ## Usage
 1. Clone REPONAME,
