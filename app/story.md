@@ -25,7 +25,7 @@ Golf writer James Dodson claimed this year that Eric in 2014 told him that Russi
 ![Donald Trump Jr.](static/img/trump-jr.png)
 ### Donald Trump Jr.
 #### Trump's adult son who runs the Trump Organization
-He said in a 2008 real estate conference that the Trump family has <q>a lot of money pouring in from Russia.</q> Neither he nor Eric has been named as a focus of any investigations, though both control the daily operations of the sprawling business empire that President Trump still owns.
+President Trump's oldest son, who has admitted to setting up a meeting between campaign officials and a Kremlin-connected Russian lawyer two weeks after Trump clinched the GOP nomination. The New York Times reported that Trump was lured to the meeting with promises of damaging information about Hillary Clinton, though it's unclear if he received any. Paul Manafort and Jared Kushner were also at the meeting, which is the only confirmed sitdown between the Trump campaign and a Russian national. Trump Jr. initially said it was simply "a short introductory meeting" focused on a Russian adoption program. But he at first denied that it even happened.
 ^^^^^^
 ## Trump associates
 ![Jeff Sessions](static/img/sessions.png)
@@ -106,7 +106,7 @@ He recused himself from the committee's investigation after allegations that he 
 ![Vladimir Putin](static/img/putin.png)
 ### Vladimir Putin
 #### The President of Russia, who is chummy with President Trump
-
+The U.S. has accused Putin's government of leading the cyber attacks on Democrats during the 2016 campaign -- something that Putin has denied. The U.S. alleges Putin wanted to tip the scales for Trump to test Western alliances and prevent Hillary Clinton, who has feuded with Putin, from winning. Trump and Putin met at the G20 Summit in July, and the Russian strongman kept up his denials. Conflicting reports emerged on how hard Trump pressed Putin for answers, but the sitdown did not seem to change Trump's friendly attitude toward Putin.
 
 ![Nigel Farage](static/img/farage.png)
 ### Nigel Farage
