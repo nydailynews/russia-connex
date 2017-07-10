@@ -110,6 +110,13 @@ img {
     max-height: 170px;
 }
 
+.caption {
+    font: 12px "Open Sans", sans-serif;
+    color: #999;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
 /*  SECTIONS  */
 
 section#profiles ul {

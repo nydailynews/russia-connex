@@ -103,6 +103,11 @@ He recused himself from the committee's investigation after allegations that he 
 #### (R-Iowa) Chairman of the Senate Judiciary Committee
 ^^^^^^
 ## Foreign players
+![Vladimir Putin](static/img/putin.png)
+### Vladimir Putin
+#### The President of Russia, who is chummy with President Trump
+
+
 ![Nigel Farage](static/img/farage.png)
 ### Nigel Farage
 #### A leader of the U.K. Brexit movement
