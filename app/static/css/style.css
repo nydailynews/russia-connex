@@ -70,7 +70,7 @@ h4 {
 	width: 270px;
 }
 
-p {
+main p {
     color: #333;
     font: normal 17px "PT Serif", serif;
     font-weight: normal;
@@ -90,13 +90,13 @@ div.intro p#datestamp + p:first-letter {
 
 hr {
 	margin-top: -7px;
-	border-color: black;
+	border-color: #333;
 }
 
 .latest-news {
     text-align: center;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+    border-top: 1px solid #666;
+    border-bottom: 1px solid #666;
     max-width: 900px;
     margin: 30px auto;
     padding: 12px;
