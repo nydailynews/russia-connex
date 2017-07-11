@@ -15,14 +15,14 @@ app.debug = True
 page = {
     'title': '',
     'title_twitter': 'Donald Trump’s ties to Russia: Your at-a-glance guide to who’s who.'.decode('utf-8'),
-    'url': '',
+    'url': 'http://interactive.nydailynews.com/project/donald-trump-ties-russia-key-players/',
     'description': '',
     'author': '"Jason Silverstein", "Interactive Project"',
-    'datestamp': '',
+    'datestamp': '2017-07-12',
     'keywords': '',
     'keywords_array': '"Donald Trump", "russia", "donald trump jr"',
-    'shareimg': '',
-    'shareimgdesc': '',
+    'shareimg': 'trump-connections-ani.gif',
+    'shareimgdesc': 'An animation of Donald Trump and his other connections that have Russian connections.',
 }
 
 with app.app_context():
