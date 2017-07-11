@@ -9,23 +9,24 @@ Here's a look at who's who at a glance, and how they're connected.
 ## The Trump family
 ![Donald Trump](static/img/trump.png)
 ### Donald Trump
-#### Became the 45th president in a surprise 2016 victory
+#### 45th President of the United States
 Evidence is consistently surfacing that Trump or people in his orbit may have had some kind of interaction with the Russian government during the campaign, but Trump has denied having any political or business ties. According to the Senate Intelligence Committee testimony of former FBI Director James Comey, Trump asked Comey to back off of the criminal investigation into campaign adviser turned National Security Adviser Michael Flynn's ties to Russia. He also reportedly ordered Director of National Intelligence Dan Coats and NSA Chief Mike Rogers to publicly say there was no wrongdoing on Trump's behalf, and told them to get Comey to lay off of Flynn.
 
 ![Jared Kushner](static/img/kushner.png)
 ### Jared Kushner
 #### Trump's son-in-law, who serves as one of his closest advisers
-Kushner had denied having any interactions with Russian officials during the campaign, but subsequently acknowledged having two meetings. Reuters reported in May that Kushner allegedly spoke with Kremlin officials last year about setting up a secret backchannel to communicate about diplomatic matters. Around the same time, Kushner also met with the chief executive of a state-owned bank who has ties to Putin, and it is not clear why. Kushner has reportedly become a focus of the criminal investigation, but he faces no charges or specific allegations.
+Kushner had denied having any interactions with Russian officials during the campaign, but subsequently acknowledged having two meetings. Reuters reported in May that Kushner spoke with Kremlin officials last year about setting up a secret backchannel to communicate about diplomatic matters. Around the same time, Kushner also met with the chief executive of a state-owned bank who has ties to Putin, and it is not clear why. Kushner has reportedly become a focus of the criminal investigation into the Trump campaign, but he faces no charges or specific allegations. He turned out to have yet another Russia interaction, in a secret meeting at Trump Tower (see Donald Trump Jr.).
 
 ![Eric Trump](static/img/eric-trump.gif)
 ### Eric Trump
-#### Trump's oldest son who runs the Trump Organization
-Golf writer James Dodson claimed this year that Eric in 2014 told him that Russia gives the family <q>all the funds we need</q> for their golf courses. Eric has denied this encounter happened.
+#### Trump's son who co-runs the Trump Organization
+Golf writer James Dodson claimed this year that Eric in 2014 told him that Russia gives the family <q>all the funds we need</q> for their golf courses. Eric has denied this encounter happened. He runs the Trump Organization with Donald Trump Jr.
 
 ![Donald Trump Jr.](static/img/trump-jr.png)
 ### Donald Trump Jr.
-#### Trump's adult son who runs the Trump Organization
-President Trump's oldest son, who has admitted to setting up a meeting between campaign officials and a Kremlin-connected Russian lawyer two weeks after Trump clinched the GOP nomination. The New York Times reported that Trump was lured to the meeting with promises of damaging information about Hillary Clinton, though it's unclear if he received any. Paul Manafort and Jared Kushner were also at the meeting, which is the only confirmed sitdown between the Trump campaign and a Russian national. Trump Jr. initially said it was simply "a short introductory meeting" focused on a Russian adoption program. But he at first denied that it even happened.
+#### Trump's eldest son
+President Trump's oldest son, who has admitted to setting up a meeting between campaign officials and a Kremlin-connected Russian lawyer 
+to get dirt on Hillary Clinton in June 2016. After days of New York Times reports revealed the meeting, Trump tweeted the emails he exchanged with Rob Goldstone (see below), a music promoter who offered a chance for intel on Clinton. Goldstone made clear that this was part of Russia's bid to help Donald Trump, and Trump Jr. replied, "if it's what you say I love it." Trump Jr. claims he was only expecting to get basic opposition research. 
 ^^^^^^
 ## Trump associates
 ![Jeff Sessions](static/img/sessions.png)
@@ -41,7 +42,7 @@ In February reports revealed that he secretly spoke with Russian Ambassador Serg
 ![Paul Manafort](static/img/manafort.gif)
 ### Paul Manafort
 #### The second of Trump's three campaign managers
-Manafort resigned in August 2016 after reports that he lobbied for Ukraine's pro-Russian government in return for big bucks. Manafort's foreign financial ties are now being investigated by the CIA, NSA, FBI, Director of National Intelligence and the Treasury Department.
+Manafort resigned in August 2016 after reports that he lobbied for Ukraine's pro-Russian government in return for big bucks. Manafort's foreign financial ties are now being investigated by the CIA, NSA, FBI, Director of National Intelligence and the Treasury Department. He joined Donald Trump Jr. and Jared Kushner at Trump Tower June 9 for a meeting expecting to get damaging information about Hillary Clinton.
 
 ![Roger Stone](static/img/stone.png)
 ### Roger Stone
@@ -71,13 +72,14 @@ The FBI obtained a court order to surveil Page's communications after suspicions
 ![Rob Goldstone](static/img/goldstone.png)
 ### Rob Goldstone
 #### Publicist and former British tabloid reporter
+A music promoter who has known Trump for several years and connected him with his client Emin Agalarov, a Russian pop star. Goldstone emailed Donald Trump Jr. in June 2016 offering a chance to learn "incriminating" information about Hillary Clinton. He explictly said it was "part of Russia and its government's support for Mr. Trump." He and Trump Jr. exchanged emails for several days to arrange the meeting for June 9. 
 
 ^^^^^^
 ## Federal (and former) investigators
 ![James Comey](static/img/comey.png)
 ### James Comey
 #### Former FBI director who Trump abruptly fired in May
-He is expected to testify before the Senate Intelligence Committee on Thursday. Comey revealed weeks before his ouster that he was investigating the Trump campaign -- an unusual disclosure for an active inquiry. An advanced copy of his Senate testimony has Comey detailing how Trump repeatedly met with him since January, asking him to drop the probe into Flynn and to pledge his "loyalty." Comey assured Trump that he, personally, was not being investigated, but he declined to go public with that detail because he could not be sure a Trump investigation would never start.
+Comey was leading an investigation into Trump's campaign. Weeks before his sudden ouster, he revealed the investigation -- an unusual disclosure for an active inquiry. Comey kept memos of his nine conversations with Trump, which showed the President pressuring him to drop the investigation and to pledge his "loyalty." Comey leaked one of the memos to the New York Times through a friend who teaches at Columbia Law School. In a Senate testimony, Comey repeatedly accused Trump of lying about their interactions. 
 
 ![Robert Mueller](static/img/mueller.png)
 ### Robert Mueller
@@ -102,10 +104,12 @@ He recused himself from the committee's investigation after allegations that he 
 ![Sen. Richard Burr](static/img/burr.png)
 ### Sen. Richard Burr
 #### (R-N.C.) Chairman of the Senate Intelligence Committee
+Burr supported and even advised Trump during the 2016 race. But he now leads one of the investigations into the Trump campaign. Burr has become increasingly critical of Trump's conduct, saying he was "troubled" especially by the firing of FBI Director James Comey.
 
 ![Sen. Charles Grassley](static/img/grassley.png)
 ### Sen. Charles Grassley
 #### (R-Iowa) Chairman of the Senate Judiciary Committee
+The leader of another investigation into the Trump campaign, who pushed James Comey to tell the public that President Trump was not personally under investigation.
 ^^^^^^
 ## Foreign players
 ![Vladimir Putin](static/img/putin.png)
@@ -131,7 +135,7 @@ This supposed hacker has not been officially identified and the U.S. intelligenc
 ![Sergey Kislyak](static/img/kislyak.png)
 ### Sergey Kislyak
 #### Recently recalled Russian Ambassador to the United States
-Kislyak keeps getting Trump people in trouble just by talking to them. Michael Flynn resigned after talking to him. Jeff Sessions recused himself from the criminal probe for talking to him. And Kislyak was with Russian Foreign Minister Sergey Lavrov at the White House when Trump revealed highly classified information from an Israeli intelligence source the day after Comey's firing.
+Kislyak keeps getting Trump people in trouble just by talking to them. Michael Flynn resigned after talking to him. Jeff Sessions recused himself from the criminal probe for talking to him. And Kislyak was with Russian Foreign Minister Sergey Lavrov at the White House when Trump revealed highly classified information from an Israeli intelligence source the day after Comey's firing. The Kremlin decided in June to recall Kislyak back to Moscow, even though he was expected to start working with the United Nations in New York.
 
 ![Sergey Lavrov](static/img/lavrov.png)
 ### Sergey Lavrov
@@ -145,4 +149,5 @@ Steele compiled an infamous dossier about Trump's supposed history with Russia. 
 
 ![Emin Agalarov](static/img/agalarov.png)
 ### Emin Agalarov
-#### Russian pop star whose did business with President Trump
+#### Russian pop star who did business with President Trump
+A client of Rob Goldstone. Agalarov met Trump in 2013 during the Miss Universe pageant in Moscow and featured him in a music video. When Trump returned to the United States, he tweeted to Agalarov's father, a billionaire Moscow developer, that he wanted to collaborate on "Trump Tower Moscow." The project never happened.
