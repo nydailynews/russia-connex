@@ -9,7 +9,7 @@ Here's a look at who's who at a glance, and how they're connected.
 ## The Trump family
 ![Donald Trump](static/img/trump.png)
 ### Donald Trump
-#### 45th President of the United States
+#### 45th U.S. President who won a surprise victory in 2016
 Evidence is consistently surfacing that Trump or people in his orbit may have had some kind of interaction with the Russian government during the campaign, but Trump has denied having any political or business ties. According to the Senate Intelligence Committee testimony of former FBI Director James Comey, Trump asked Comey to back off of the criminal investigation into campaign adviser turned National Security Adviser Michael Flynn's ties to Russia. He also reportedly ordered Director of National Intelligence Dan Coats and NSA Chief Mike Rogers to publicly say there was no wrongdoing on Trump's behalf, and told them to get Comey to lay off of Flynn.
 
 ![Jared Kushner](static/img/kushner.png)
@@ -24,7 +24,7 @@ Golf writer James Dodson claimed this year that Eric in 2014 told him that Russi
 
 ![Donald Trump Jr.](static/img/trump-jr.png)
 ### Donald Trump Jr.
-#### Trump's eldest son
+#### Trump's eldest son and a trustee of the Trump Organization
 President Trump's oldest son, who has admitted to setting up a meeting between campaign officials and a Kremlin-connected Russian lawyer to get dirt on Hillary Clinton in June 2016. After days of New York Times reports revealed the meeting, Trump tweeted the emails he exchanged with Rob Goldstone (see below), a music promoter who offered a chance for intel on Clinton. Goldstone made clear that this was part of Russia's bid to help Donald Trump, and Trump Jr. replied, "if it's what you say I love it." Trump Jr. claims he was only expecting to get basic opposition research. 
 ^^^^^^
 ## Trump associates
@@ -138,12 +138,12 @@ Kislyak keeps getting Trump people in trouble just by talking to them. Michael F
 
 ![Sergey Lavrov](static/img/lavrov.png)
 ### Sergey Lavrov
-#### The Russian Foreign Minister
+#### Longtime diplomat and the current Russian Foreign Minister
 Lavrov joined Ambassador Sergey Kislyak for a White House meeting in May, in which President Trump exposed highly classified information about ISIS threats.
 
 ![Christopher Steele](static/img/steele.png)
 ### Christopher Steele
-#### A British spy, formerly with MI6
+#### A British intelligence officer, formerly with MI6
 Steele compiled an infamous dossier about Trump's supposed history with Russia. The dossier, which Buzzfeed News published in January, alleges that Russia has been grooming and blackmailing Trump behind the scenes for years as part of a conspiracy to shatter Western relations. Trump denied the allegations and the dossier's main thesis remains unverified. But since its publication, several secondary allegations about Russian officials and the Kremlin cyberattack campaign have been validated by further reports.
 
 ![Emin Agalarov](static/img/agalarov.png)
