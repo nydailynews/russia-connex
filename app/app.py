@@ -38,8 +38,9 @@ def index():
 
     content = { 'intro': '', 'sections': [] }
     fh = open('story.md', 'rb')
-    
     story = fh.read().split('^^^^^^')
+    fh.close()
+
     content['intro'] = m.html(story[0])
     i = 0
     for s, section in enumerate(story[1:]):
@@ -66,8 +67,14 @@ def index():
         # Add the closing ul
         content['sections'].append('%s\n</div>\n</li>\n</ul>' % markup)
 
+    # Get the most-recent headline
+    fh = open('tag-russia-1.html', 'rb')
+    latest = fh.read()
+    fh.close()
+
     response = {
         'app': app,
+        'latest': latest,
         'content': content
     }
     return render_template('index.html', response=response)
