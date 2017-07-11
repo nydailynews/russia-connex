@@ -70,7 +70,7 @@ h4 {
 	width: 270px;
 }
 
-main p {
+main p, .expand-all {
     color: #333;
     font: normal 17px "PT Serif", serif;
     font-weight: normal;
@@ -122,6 +122,21 @@ img {
     margin: auto;
 }
 
+.expand-all a {
+    color: #8fb0c6;
+    color: #1F618D;
+    text-decoration: underline;
+}
+.expand-all {
+    font-size: 12px;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: #fff;
+    width: 100px;
+    margin: auto;
+    cursor: pointer;
+}
+
 div.ad { width: 300px; }
 div.ad > span {
     font-size:10px;
@@ -136,7 +151,6 @@ div.ad > span {
 section#profiles {
     width: 100%;
     height: auto;
-    border: 2px solid blue;
 }
 
 section#profiles ul {

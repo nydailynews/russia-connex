@@ -42,14 +42,14 @@ def index():
     story = fh.read().split('^^^^^^')
     content['intro'] = m.html(story[0])
     i = 0
-    for section in story[1:]:
+    for s, section in enumerate(story[1:]):
         # This fixes some formatting issues with variable numbers of newlines in story.md
         section = section.strip("\n")
         items = []
         parts = section.split("\n\n")
         for item in parts:
             mkup = m.html(item)
-            mkup = mkup.replace('</h4>', '</h4>\n<div id="read-more-%d" class="read-more collapsed" onclick="clicker(%d);">' % (i, i))
+            mkup = mkup.replace('</h4>', '</h4>\n<div id="read-more-%d" class="read-more collapsed section-%d" onclick="clicker(%d);">' % (i, s, i))
             items.append(mkup)
             i += 1
 
@@ -58,7 +58,11 @@ def index():
         # Add the hr's
         markup = markup.replace('<h3>', '<hr>\n<h3>')
         # Add the opening ul
-        markup = markup.replace('</h2>', '</h2>\n<ul><li>')
+        # We add an expand-all link below the first header
+        if s == 0:
+            markup = markup.replace('</h2>', '</h2>\n<div class="expand-all" onclick="expand_all();"><a>expand all</a></div>\n<ul><li>')
+        else:
+            markup = markup.replace('</h2>', '</h2>\n<ul><li>')
         # Add the closing ul
         content['sections'].append('%s\n</div>\n</li>\n</ul>' % markup)
 

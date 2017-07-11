@@ -173,6 +173,13 @@
     var expand = function (id){$("#read-more-" + id).stop().addClass("on").animate({"max-height":"800px"},200,function(){$("#read-more-" + id).removeClass("collapsed");});}
 
     var collapse = function (id){$("#read-more-" + id).stop().removeClass("on").animate({"max-height":"125px"},200,function(){$("#read-more-" + id).addClass("collapsed");});}
+
+    var expand_all = function() {
+        $.each($(".collapsed"), function (index, value) {
+            expand(index);
+        });
+        $('.expand-all').addClass('hide');       
+    }
     </script>
 
     <link rel="stylesheet" type="text/css" href="http://assets.nydailynews.com/nydn/c/rh.css">
