@@ -43,6 +43,8 @@ def index():
     content['intro'] = m.html(story[0])
     i = 0
     for section in story[1:]:
+        # This fixes some formatting issues with variable numbers of newlines in story.md
+        section = section.strip("\n")
         items = []
         parts = section.split("\n\n")
         for item in parts:
