@@ -25,8 +25,7 @@ Golf writer James Dodson claimed this year that Eric in 2014 told him that Russi
 ![Donald Trump Jr.](static/img/trump-jr.png)
 ### Donald Trump Jr.
 #### Trump's eldest son
-President Trump's oldest son, who has admitted to setting up a meeting between campaign officials and a Kremlin-connected Russian lawyer 
-to get dirt on Hillary Clinton in June 2016. After days of New York Times reports revealed the meeting, Trump tweeted the emails he exchanged with Rob Goldstone (see below), a music promoter who offered a chance for intel on Clinton. Goldstone made clear that this was part of Russia's bid to help Donald Trump, and Trump Jr. replied, "if it's what you say I love it." Trump Jr. claims he was only expecting to get basic opposition research. 
+President Trump's oldest son, who has admitted to setting up a meeting between campaign officials and a Kremlin-connected Russian lawyer to get dirt on Hillary Clinton in June 2016. After days of New York Times reports revealed the meeting, Trump tweeted the emails he exchanged with Rob Goldstone (see below), a music promoter who offered a chance for intel on Clinton. Goldstone made clear that this was part of Russia's bid to help Donald Trump, and Trump Jr. replied, "if it's what you say I love it." Trump Jr. claims he was only expecting to get basic opposition research. 
 ^^^^^^
 ## Trump associates
 ![Jeff Sessions](static/img/sessions.png)
