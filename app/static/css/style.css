@@ -133,7 +133,15 @@ div.ad > span {
 
 /*  SECTIONS  */
 
+section#profiles {
+    width: 100%;
+    height: auto;
+    border: 2px solid blue;
+}
+
 section#profiles ul {
+    width: 100%;
+    height: auto;
     padding: 0;
     margin: 0 50px 50px 50px;
     list-style: none;
@@ -143,6 +151,7 @@ section#profiles ul {
     display: -webkit-flex;
     display: flex;
     -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
     justify-content: space-around;
 }
 
@@ -215,4 +224,11 @@ section#profiles ul li div p {
 }
 /* HANDHELD & TABLET */
 @media only screen and ( min-width: 220px ) and (max-width:1023px) {
+}
+
+/* IE10+ CSS styles go here */
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+section#profiles ul li {
+    flex: 1 0 auto;
+}
 }
