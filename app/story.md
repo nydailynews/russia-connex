@@ -48,11 +48,6 @@ Manafort resigned in August 2016 after reports that he lobbied for Ukraine's pro
 #### A gadfly Republican consultant who worked on Trump's campaign
 The criminal probe is looking into his potential contacts with Russian operatives. Stone has admitted to secretly speaking with WikiLeaks founder Julian Assange and supposed hacker Guccifer 2.0 (see <q>Foreign players,</q> below), but he has denied any Russia ties or advanced knowledge of the cyberattacks on Clinton's campaign.
 
-![Rob Goldstone](static/img/goldstone.png)
-### Rob Goldstone
-#### descriptive subtitle
-Text here
-
 ![Michael Cohen](static/img/cohen.gif)
 ### Michael Cohen
 #### Trump's personal lawyer is under investigation
@@ -72,6 +67,11 @@ Caputo has been asked to provide documents and an interview for the House invest
 ### Carter Page
 #### A foreign policy adviser for Trump's campaign
 The FBI obtained a court order to surveil Page's communications after suspicions that he interacted with Russian officials during the campaign. Page, an oil industry consultant, denied any contact but did not deny reports that he spoke with Kislyak during the Republican National Convention. Prosecutors say Russian spies tried to recruit him in an unrelated scheme in 2013.
+
+![Rob Goldstone](static/img/goldstone.png)
+### Rob Goldstone
+#### Publicist and former British tabloid reporter
+
 ^^^^^^
 ## Federal (and former) investigators
 ![James Comey](static/img/comey.png)
