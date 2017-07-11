@@ -14,7 +14,7 @@
 
     <!-- TITLES -->
     <meta property="og:title" content='{{response.app.page.title}}' />
-    <meta name="twitter:title" content='{{response.app.page.title}}' />
+    <meta name="twitter:title" content='{{response.app.page.title_twitter}}' />
 
     <!-- DESCRIPTION -->
     <meta name="description" content="{{response.app.page.description}}" />
@@ -47,8 +47,8 @@
             "thumbnailUrl": "{{response.app.url_root}}static/img/{{response.app.page.shareimg}}",
             "dateCreated": "{{response.app.page.datestamp}}T07:00:00Z",
             "articleSection": "Interactive",
-            "creator": [{{response.app.page.author}}],
-            "keywords": ["interactive",{{response.app.page.keywords_array}}]
+            "creator": [{{response.app.page.author|safe}}],
+            "keywords": ["interactive project","interactive",{{response.app.page.keywords_array|safe}}]
         }
     </script>
 
@@ -58,7 +58,6 @@
     <meta name="twitter:site" content="@nydailynews">
     <meta name="decorator" content="responsive" />
     <meta name="nydn_section" content="NY Daily News" />
-    <meta name="robots" content="NOARCHIVE" />
     <meta name="msvalidate.01" content="02916AAC0DA8B068EFE01D721E03ED7E" />
     <meta name="p:domain_verify" content="78efe4f5c9935744af497772f68a0ee7" />
     <meta property="fb:app_id" content="107464888913" />
@@ -67,7 +66,6 @@
     <meta property="og:type" content="article" />
     <meta property="og:site_name" content="NY Daily News" />
     <meta property="article:publisher" content="https://www.facebook.com/NYDailyNews/" />
-    <meta name="searchBinding" content="/search" />
     <meta name="localeCountry" content="US"/>
     <meta name="localeLanguage" content="en" />
 

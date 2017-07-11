@@ -6,7 +6,7 @@ ENVIRON='PROD'
 export environ=$ENVIRON
 SERVER='qa'
 DIR='/apps/project/'
-PROJECT='connect-russia'
+PROJECT='donald-trump-ties-russia-key-players'
 LOCATION_OVERRIDE=0
 html_only() { 
     echo ''

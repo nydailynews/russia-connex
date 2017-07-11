@@ -14,12 +14,13 @@ app.debug = True
 
 page = {
     'title': '',
+    'title_twitter': 'Donald Trump’s ties to Russia: Your at-a-glance guide to who’s who.'.decode('utf-8'),
     'url': '',
     'description': '',
-    'author': '',
+    'author': '"Jason Silverstein", "Interactive Project"',
     'datestamp': '',
     'keywords': '',
-    'keywords_array': '',
+    'keywords_array': '"Donald Trump", "russia", "donald trump jr"',
     'shareimg': '',
     'shareimgdesc': '',
 }
@@ -31,8 +32,9 @@ with app.app_context():
 
 @app.route('/')
 def index():
-    app.page['title'] = 'Here’s what we know about Donald Trump’s ties to Russia, by the New York Daily News'.decode('utf-8')
-    app.page['description'] = 'A regularly-updated index of Donald Trump’s ties to Russia, by NY Daily News reporter Jason Silverstein'.decode('utf-8')
+    app.page['title'] = 'Donald Trump’s ties to Russia: A who’s who of the key players'.decode('utf-8')
+    app.page['description'] = 'The investigation into President Trump’s ties to Russia is extremely complicated, with new revelations every day. Here’s your at-a-glance guide to who’s who and how the key players are connected. By NY Daily News reporter Jason Silverstein'.decode('utf-8')
+    app.page['keywords'] = 'Donald Trump Russia investigation, Trump’s Russia connections, Trump associates, Putin and Trump, Donald Trump Jr., Jared Kushner'.decode('utf-8')
 
     content = { 'intro': '', 'sections': [] }
     fh = open('story.md', 'rb')
@@ -71,14 +73,32 @@ def last_update(blank):
         Returns a formatted date object, ala "Friday Feb. 20"
         """
     today = date.today()
-    return today.strftime('%A %b. %d')
+    return today.strftime('%A %B %d')
 
 @app.template_filter(name='timestamp')
 def timestamp(blank):
     """ What's the current date and time?
         """
     today = datetime.today()
-    return today.strftime("%A %b. %d, %-I:%M %p")
+    return today.strftime("%A %B %d, %-I:%M %p")
+
+@app.template_filter(name='ordinal')
+def ordinal_filter(value):
+    """ Take a number such as 62 and return 62nd. 63, 63rd etc.
+        """
+    digit = value % 10
+    if 10 < value < 20:
+        o = 'th'
+    elif digit is 1:
+        o = 'st'
+    elif digit is 2:
+        o = 'nd'
+    elif digit is 3:
+        o = 'rd'
+    else:
+        o = 'th'
+    return '%d%s' % (value, o)
+app.add_template_filter(ordinal_filter)
 
 if __name__ == '__main__':
     app.run()
