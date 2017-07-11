@@ -142,3 +142,7 @@ Lavrov joined Ambassador Sergey Kislyak for a White House meeting in May, in whi
 ### Christopher Steele
 #### A British spy, formerly with MI6
 Steele compiled an infamous dossier about Trump's supposed history with Russia. The dossier, which Buzzfeed News published in January, alleges that Russia has been grooming and blackmailing Trump behind the scenes for years as part of a conspiracy to shatter Western relations. Trump denied the allegations and the dossier's main thesis remains unverified. But since its publication, several secondary allegations about Russian officials and the Kremlin cyberattack campaign have been validated by further reports.
+
+![Emin Agalarov](static/img/agalarov.png)
+### Emin Agalarov
+#### Russian pop star whose did business with President Trump
