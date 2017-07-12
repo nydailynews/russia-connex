@@ -21,7 +21,7 @@ page = {
     'datestamp': '2017-07-12',
     'keywords': '',
     'keywords_array': '"Donald Trump", "russia", "donald trump jr"',
-    'shareimg': 'trump-connections-ani.gif',
+    'shareimg': 'trump-connections-ani-v2.gif',
     'shareimgdesc': 'An animation of Donald Trump and his other connections that have Russian connections.',
 }
 
