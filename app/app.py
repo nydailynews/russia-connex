@@ -22,6 +22,7 @@ page = {
     'keywords': '',
     'keywords_array': '"donald trump", "russia", "donald trump jr"',
     'shareimg': 'trump-connections-ani-v2.gif',
+    'shareimg_static': 'trump-connections.png',
     'shareimgdesc': 'An animation of Donald Trump and his other connections that have Russian connections.',
 }
 
@@ -74,7 +75,7 @@ def index():
 
     response = {
         'app': app,
-        'latest': latest,
+        'latest': latest.decode('utf-8'),
         'content': content
     }
     return render_template('index.html', response=response)
