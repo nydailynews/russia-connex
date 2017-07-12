@@ -20,7 +20,7 @@ page = {
     'author': '"Jason Silverstein", "Interactive Project"',
     'datestamp': '2017-07-12',
     'keywords': '',
-    'keywords_array': '"Donald Trump", "russia", "donald trump jr"',
+    'keywords_array': '"donald trump", "russia", "donald trump jr"',
     'shareimg': 'trump-connections-ani-v2.gif',
     'shareimgdesc': 'An animation of Donald Trump and his other connections that have Russian connections.',
 }
