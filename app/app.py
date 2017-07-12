@@ -31,6 +31,11 @@ with app.app_context():
     app.page = page
     app.sitename = ''
 
+@app.route('/update/')
+@app.route('/update/<datestamp>/')
+def update(datestamp=None):
+    pass
+
 @app.route('/')
 def index():
     app.page['title'] = 'Donald Trump’s ties to Russia: A who’s who of the key players'.decode('utf-8')
@@ -86,8 +91,10 @@ def last_update(blank):
         the datestamp will update.
         Returns a formatted date object, ala "Friday Feb. 20"
         """
-    today = date.today()
-    return today.strftime('%A %B %d')
+    if blank == '':
+        return date.today().strftime('%A %B %d')
+    else:
+        return blank
 
 @app.template_filter(name='timestamp')
 def timestamp(blank):
