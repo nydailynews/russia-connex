@@ -22,8 +22,34 @@
 {{response.content.intro|safe}}
 </div>
 
-<p class="latest-news">The latest in <a href="http://www.nydailynews.com/tags/russia">Daily News Trump-Russia news</a>: <strong>{{response.latest|safe}}</strong></p>
+<p class="latest-news">
+    The latest in <a href="http://www.nydailynews.com/tags/russia">Daily News Trump-Russia news</a>: 
+    <strong id="latest-news-headline"></strong>
+</p>
+<noscript>
+    <p>
+        <strong>{{response.latest|safe}}</strong>
+    </p>
+</noscript>
 
+<script>
+    var s = document.createElement('script');
+    var rando = function() { 
+        var text = "";
+        var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+
+        for( var i=0; i < 5; i++ )
+            text += possible.charAt(Math.floor(Math.random() * possible.length));
+        return text;
+    }
+    s.onload = function() { callback(); }
+    s.setAttribute('src', 'http://interactive.nydailynews.com/project/donald-trump-ties-russia-key-players/tag-russia-1.js?' + rando());
+    document.getElementsByTagName('head')[0].appendChild(s);
+    function callback() {
+        document.getElementById('latest-news-headline').innerHTML = hed;
+    }
+</script>
+    
 {% include 'includes/ad02.html' %}
 
 <section id="profiles">
