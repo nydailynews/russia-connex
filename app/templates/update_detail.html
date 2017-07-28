@@ -4,7 +4,7 @@
 {% block content %}
 
 <div class="intro">
-    <h2>The Russian connection</h2>
+    <a href="http://interactive.nydailynews.com/project/donald-trump-ties-russia-key-players/"><h2>The Russian connection</h2></a>
     
     <h1>UPDATE: Donald Trump’s ties to Russia</h1>
     <div>
@@ -27,19 +27,8 @@
 {% include 'includes/ad02.html' %}
 
 <section id="profiles">
-    
-    <h2>The newest players</h2>
-    <div class="expand-all" onclick="expand_all();"><a>expand all</a></div>
-    <ul>
-        <li>
-            <p><img src="static/img/trump.png" alt="Donald Trump"></p>
-            <hr>
-            <h3>Donald Trump</h3>
-            <h4>45th U.S. President who won a surprise victory in 2016</h4>
-            <div id="read-more-0" class="read-more collapsed section-0" onclick="clicker(0);">
-            <p>Evidence is consistently surfacing that Trump or people in his orbit may have had some kind of interaction with the Russian government during the campaign, but Trump has denied having any political or business ties. According to the Senate Intelligence Committee testimony of former FBI Director James Comey, Trump asked Comey to back off of the criminal investigation into campaign adviser turned National Security Adviser Michael Flynn&#39;s ties to Russia. He also reportedly ordered Director of National Intelligence Dan Coats and NSA Chief Mike Rogers to publicly say there was no wrongdoing on Trump&#39;s behalf, and told them to get Comey to lay off of Flynn.</p>
-            </div>
-        </li>
+        
+    {{response.content|safe}}
 
 </section>
 
