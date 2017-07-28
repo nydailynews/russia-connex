@@ -33,8 +33,31 @@ with app.app_context():
 
 @app.route('/update/')
 @app.route('/update/<datestamp>/')
-def update(datestamp=None):
+def latest(datestamp=None):
     pass
+
+    app.page['title'] = 'Donald Trump’s updated ties to Russia'.decode('utf-8')
+    app.page['description'] = 'The investigation into President Trump’s ties to Russia is extremely complicated, with new revelations every day. Here’s your at-a-glance guide to who’s who and how the key players are connected. By NY Daily News reporter Jason Silverstein'.decode('utf-8')
+    app.page['keywords'] = 'Donald Trump Russia investigation, Trump’s Russia connections, Trump associates, Putin and Trump, Donald Trump Jr., Jared Kushner'.decode('utf-8')
+
+    # Get the latest profiles
+
+    fh = open('latest.md', 'rb')
+    latest = fh.read()
+    fh.close()
+
+    fh = open('latest.md', 'rb')
+    story = fh.read()
+    fh.close()
+    content = m.html(story)
+
+
+    response = {
+        'app': app,
+        'latest': latest,
+        'content': content
+    }
+    return render_template('update_detail.html', response=response)
 
 @app.route('/')
 def index():
