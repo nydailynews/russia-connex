@@ -31,6 +31,17 @@ with app.app_context():
     app.page = page
     app.sitename = ''
 
+
+def get_last_updated():
+    """ Return the last updated datetime for story.md.
+        >>>
+        """
+    repo = Repo('../')
+    for i in repo.index.iter_blobs():
+        if i[1].path = 'app/story.md':
+            s = i[1]
+    pass
+
 @app.route('/update/')
 @app.route('/update/<datestamp>/')
 def update(datestamp=None):
@@ -93,8 +104,7 @@ def last_update(blank):
         """
     if blank == '':
         return date.today().strftime('%A %B %d')
-    else:
-        return blank
+    return blank
 
 @app.template_filter(name='timestamp')
 def timestamp(blank):
