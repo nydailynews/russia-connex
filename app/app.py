@@ -31,14 +31,13 @@ with app.app_context():
     app.page = page
     app.sitename = ''
 
-@app.route('/update/')
 @app.route('/update/<datestamp>/')
 def latest(datestamp=None):
     pass
 
     app.page['title'] = 'Donald Trump’s updated ties to Russia'.decode('utf-8')
-    app.page['description'] = 'The investigation into President Trump’s ties to Russia is extremely complicated, with new revelations every day. Here’s your at-a-glance guide to who’s who and how the key players are connected. By NY Daily News reporter Jason Silverstein'.decode('utf-8')
-    app.page['keywords'] = 'Donald Trump Russia investigation, Trump’s Russia connections, Trump associates, Putin and Trump, Donald Trump Jr., Jared Kushner'.decode('utf-8')
+    app.page['description'] = 'The investigation into President Trump’s ties to Russia is extremely complicated, with new revelations every day. Here’s your at-a-glance guide to who’s who and how the key players are connected.'.decode('utf-8')
+    app.page['keywords'] = ''.decode('utf-8')
 
     # Get the latest profiles
 
@@ -58,6 +57,12 @@ def latest(datestamp=None):
         'content': content
     }
     return render_template('update_detail.html', response=response)
+
+@app.route('/update/')
+    app.page['title'] = 'The latest on Donald Trump’s updated ties to Russia'.decode('utf-8')
+    app.page['description'] = 'A list of the edits made to our article looking at Donald Trump’s ties to Russia.'.decode('utf-8')
+    app.page['keywords'] = ''.decode('utf-8')
+    return render_template('update_index.html')
 
 @app.route('/')
 def index():

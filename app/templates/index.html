@@ -8,15 +8,10 @@
     
     <h1>Here’s what we know about Donald Trump’s ties to Russia</h1>
     <div>
-        <ul class="ra-share" id="ra-share-top" style="text-align: center;">
-            <li class="rt-share-f"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://interactive.nydailynews.com/project/donald-trump-ties-russia-key-players/">facebook</a> </li>
-            <li class="ra-share-t"> <a target="_blank" href="https://twitter.com/intent/tweet?text=What we know about Donald Trump’s ties to Russia %20http://interactive.nydailynews.com/project/donald-trump-ties-russia-key-players/">Tweet</a></li>
-            <li class="ra-share-e"> <a href="mailto:?subject=What we know about Donald Trump’s ties to Russia&body=http://interactive.nydailynews.com/project/donald-trump-ties-russia-key-players/">email</a> </li>
-        </ul>
+{% include 'includes/social.html' %}
     </div>
 
     <p class="byline">By Jason Silverstein</p>
-
     <p id="datestamp" class="stamp">Last updated {{'WEDNESDAY JULY 12th'|last_update()}}</p>
 
 {{response.content.intro|safe}}
@@ -32,24 +27,6 @@
     </p>
 </noscript>
 
-<script>
-    var s = document.createElement('script');
-    var rando = function() { 
-        var text = "";
-        var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
-
-        for( var i=0; i < 5; i++ )
-            text += possible.charAt(Math.floor(Math.random() * possible.length));
-        return text;
-    }
-    s.onload = function() { callback(); }
-    s.setAttribute('src', 'http://interactive.nydailynews.com/project/donald-trump-ties-russia-key-players/tag-russia-1.js?' + rando());
-    document.getElementsByTagName('head')[0].appendChild(s);
-    function callback() {
-        document.getElementById('latest-news-headline').innerHTML = hed;
-    }
-</script>
-    
 {% include 'includes/ad05.html' %}
 
 <section id="profiles">
