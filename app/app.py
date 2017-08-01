@@ -32,7 +32,7 @@ with app.app_context():
     app.sitename = ''
 
 @app.route('/update/<datestamp>/')
-def latest(datestamp=None):
+def update_detail(datestamp=None):
     pass
 
     app.page['title'] = 'Donald Trump’s updated ties to Russia'.decode('utf-8')
@@ -59,10 +59,14 @@ def latest(datestamp=None):
     return render_template('update_detail.html', response=response)
 
 @app.route('/update/')
+def update_index():
     app.page['title'] = 'The latest on Donald Trump’s updated ties to Russia'.decode('utf-8')
     app.page['description'] = 'A list of the edits made to our article looking at Donald Trump’s ties to Russia.'.decode('utf-8')
     app.page['keywords'] = ''.decode('utf-8')
-    return render_template('update_index.html')
+    response = {
+        'app': app,
+    }
+    return render_template('update_index.html', response=response)
 
 @app.route('/')
 def index():
