@@ -2,7 +2,7 @@ The latest additions to Trump's Russia connections.
 
 ^^^^^^
 ## The newest players
-![Natalia Veselnitskaya](static/img/veselnitskaya.gif)
+![Natalia Veselnitskaya](static/img/veselnitskaya.png)
 ### Natalia Veselnitskaya
 #### Short description
 Long description goes here
