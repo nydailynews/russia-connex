@@ -8,6 +8,14 @@ body {
 	display: none;
 }
 
+.iframeHere .intro h2, .iframeHere h1, .iframeHere .intro ul, .iframeHere p.byline, .iframeHere p#datestamp, .iframeHere p.caption {
+    display: none;
+ }
+
+ header, footer {
+    display: none;
+ }
+
 .byline {
 	font: bold 20px "Open Sans Condensed", sans-serif;
     text-transform: uppercase;
@@ -52,6 +60,7 @@ h2 {
     font-size: 15px;
     letter-spacing: 2px;
  }
+
 
 h3 {
 	font: bold 25px "Open Sans Condensed", sans-serif;
