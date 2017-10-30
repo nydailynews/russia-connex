@@ -94,10 +94,10 @@
     </script>
     
     <!-- ADS-START -->
-    <script onload="nydn_ads('one');" src="http://interactive.nydailynews.com/includes/ads/ads.js"></script>
+    <script onload="nydn_ads('one');" src="/includes/ads/ads.js"></script>
     <!-- ADS-END -->
 
-    <script src="http://interactive.nydailynews.com/js/jquery.min.js"></script>
+    <script src="/js/jquery.min.js"></script>
     
     <script>
     var clicker = function (id) {if($("#read-more-" + id).hasClass("collapsed")){expand(id);}else{collapse(id);}}
@@ -129,7 +129,9 @@
 </head>
 
 <body id="nydailynews" data-section="nydailynews" data-subsection="NY Daily News">
-
+<script>
+    if (window.self !== window.top) $('body').addClass('iframeHere');    
+</script>
 <!-- SITEHEADER-START -->
 <header id="templateheader"></header>
 <!-- SITEHEADER-END -->
