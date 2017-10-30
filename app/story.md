@@ -28,6 +28,26 @@ Golf writer James Dodson claimed this year that Eric in 2014 told him that Russi
 President Trump's oldest son, who has admitted to setting up a meeting between campaign officials and a Kremlin-connected Russian lawyer to get dirt on Hillary Clinton in June 2016. After days of New York Times reports revealed the meeting, Trump tweeted the emails he exchanged with Rob Goldstone (see below), a music promoter who offered a chance for intel on Clinton. Goldstone made clear that this was part of Russia's bid to help Donald Trump, and Trump Jr. replied, "if it's what you say I love it." Trump Jr. claims he was only expecting to get basic opposition research. 
 ^^^^^^
 ## Trump associates
+![Paul Manafort](static/img/manafort.gif)
+### Paul Manafort
+#### The second of Trump's three campaign managers
+Manafort and business partner Rick Gates were indicted by Special Counsel Robert Mueller on charges of conspiracy and money laundering in court papers unsealed on Oct. 30 for allegedly moving tens of millions of dollars through secret foreign accounts. Manafort resigned from the Trump campaign in August 2016 after reports that he lobbied for Ukraine's pro-Russian government in return for big bucks. Manafort's foreign financial ties are now being investigated by the CIA, NSA, FBI, Director of National Intelligence and the Treasury Department. He joined Donald Trump Jr. and Jared Kushner at Trump Tower June 9 for a meeting expecting to get damaging information about Hillary Clinton.
+
+![Rick Gates](static/img/gates.png)
+### Rick Gates
+#### A longtime business partner of Paul Manafort
+Gates' and Manafort's firm did work for high-profile Eastern European clients, including pro-Russian government officials in the Ukraine. He was Manafort's number two when he was the Trump campaign's chairman, and stayed on for weeks after Manafort's departure. He was later involved with Trump's inauguration committee, and helped launched the pro-Trump PAC "America First Policies" with five other former Trump campaign aides. He was pushed out in March after it was reported he was being probed by the feds. He was indicted with Manafort by Special Counsel Robert Mueller on charges of conspiracy and money laundering in court papers unsealed on Oct. 30.
+
+![George Papadopoulos](static/img/papadopoulos.png)
+### George Papadopoulos
+#### A former foreign policy adviser to the Trump campaign
+Papadapoulos pleaded guilty to lying to the feds about his contacts with Russian officials in early October. The plea was unsealed on Oct. 30 &emdash; the same day the Paul Manafort and Rick Gates indictments were unsealed. Papadopoulos joined the Trump campaign as a foreign policy adviser in March 2016. Before that he was based in London, and acted as an adviser for Ben Carson's previous Presidential bid, according to his LinkedIn page. He bills himself as an oil and gas expert, having previously worked at Energy Stream and the Director of the Centre for International Energy and Natural Resources Law & Security. He admitted to lying to the FBI about his meetings with a Russian professor with ties to the Russian government as well as a woman he thought was related to Vladimir Putin. He told the feds he'd been promised "dirt" on Hillary Clinton.
+
+![Roger Stone](static/img/stone.png)
+### Roger Stone
+#### A gadfly Republican consultant who worked on Trump's campaign
+The criminal probe is looking into his potential contacts with Russian operatives. Stone has admitted to secretly speaking with WikiLeaks founder Julian Assange and supposed hacker Guccifer 2.0 (see <q>Foreign players,</q> below), but he has denied any Russia ties or advanced knowledge of the cyberattacks on Clinton's campaign. After a series expletive-filled Tweets insulting several CNN anchors and staff on Oct. 29, Twitter suspended Stone's account. It was unclear whether that would be permanent.
+
 ![Jeff Sessions](static/img/sessions.png)
 ### Jeff Sessions
 #### Former U.S. Senator and now Trump's Attorney General
@@ -37,16 +57,6 @@ Sessions recused himself from the criminal investigation after the Washington Po
 ### Michael Flynn
 #### retired Army general who resigned as national security adviser
 In February reports revealed that he secretly spoke with Russian Ambassador Sergey Kislyak in December 2016 about sanctions placed on Russia by the Obama administration. The White House has said there was nothing improper about those talks, but that he was fired for lying about their content to Vice-President Mike Pence. Flynn was also present at a December meeting between Kislyak and Jared Kushner in Trump Tower. Flynn's previous work as a consultant brought him into financial arrangements with Turkey and Ukraine, and in 2015 the state-run Russian media network RT paid Flynn at least $45,000 to deliver a speech at an event where he was seated next to Russian President Vladimir Putin. Flynn has been subpoenaed to testify before the Senate Intelligence Committee but has not been cooperating.
-
-![Paul Manafort](static/img/manafort.gif)
-### Paul Manafort
-#### The second of Trump's three campaign managers
-Manafort resigned in August 2016 after reports that he lobbied for Ukraine's pro-Russian government in return for big bucks. Manafort's foreign financial ties are now being investigated by the CIA, NSA, FBI, Director of National Intelligence and the Treasury Department. He joined Donald Trump Jr. and Jared Kushner at Trump Tower June 9 for a meeting expecting to get damaging information about Hillary Clinton.
-
-![Roger Stone](static/img/stone.png)
-### Roger Stone
-#### A gadfly Republican consultant who worked on Trump's campaign
-The criminal probe is looking into his potential contacts with Russian operatives. Stone has admitted to secretly speaking with WikiLeaks founder Julian Assange and supposed hacker Guccifer 2.0 (see <q>Foreign players,</q> below), but he has denied any Russia ties or advanced knowledge of the cyberattacks on Clinton's campaign.
 
 ![Michael Cohen](static/img/cohen.gif)
 ### Michael Cohen
@@ -75,15 +85,15 @@ A music promoter who has known Trump for several years and connected him with hi
 
 ^^^^^^
 ## Federal (and former) investigators
-![James Comey](static/img/comey.png)
-### James Comey
-#### Former FBI director who Trump abruptly fired in May
-Comey was leading an investigation into Trump's campaign. Weeks before his sudden ouster, he revealed the investigation -- an unusual disclosure for an active inquiry. Comey kept memos of his nine conversations with Trump, which showed the President pressuring him to drop the investigation and to pledge his "loyalty." Comey leaked one of the memos to the New York Times through a friend who teaches at Columbia Law School. In a Senate testimony, Comey repeatedly accused Trump of lying about their interactions. 
-
 ![Robert Mueller](static/img/mueller.png)
 ### Robert Mueller
 #### Special Counsel leading the criminal investigation
 After Comey's firing, Mueller -- a former FBI director -- has been assembling an all-star prosecution team with lawyers who worked on Watergate and the Enron collapse.
+
+![James Comey](static/img/comey.png)
+### James Comey
+#### Former FBI director who Trump abruptly fired in May
+Comey was leading an investigation into Trump's campaign. Weeks before his sudden ouster, he revealed the investigation -- an unusual disclosure for an active inquiry. Comey kept memos of his nine conversations with Trump, which showed the President pressuring him to drop the investigation and to pledge his "loyalty." Comey leaked one of the memos to the New York Times through a friend who teaches at Columbia Law School. In a Senate testimony, Comey repeatedly accused Trump of lying about their interactions. 
 
 ![Rod Rosenstein](static/img/rosenstein.png)
 ### Rod Rosenstein
