@@ -12,7 +12,7 @@ body {
     display: none;
  }
 
- header, footer {
+.iframeHere header, .iframeHere footer {
     display: none;
  }
 
@@ -147,7 +147,7 @@ img {
 }
 
 div.ad {
-    width: 300px;
+    /*width: 300px;*/
     padding-bottom: 10px;
 }
 div.ad > span {
