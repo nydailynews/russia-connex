@@ -187,6 +187,23 @@ section#profiles ul li {
     text-align: center;
 }
 
+section#profiles ul li p.label:before {
+    text-transform: uppercase;
+    color: #C70039;
+    font: bold 18px "Open Sans Condensed", sans-serif;
+    position: absolute;
+    transform: rotate(-15deg);
+    text-shadow: 2px 2px 6px lightblue;
+}
+
+section#profiles ul li > p.new:first-child:before{
+    content: ' \262D \00a0 new';
+}
+
+section#profiles ul li > p.updated:first-child:before{
+    content: ' \262D \00a0 updated';
+}
+
 section#profiles ul li div p {
     text-align: left;
 }

@@ -28,7 +28,11 @@ Golf writer James Dodson claimed this year that Eric in 2014 told him that Russi
 President Trump's oldest son, who has admitted to setting up a meeting between campaign officials and a Kremlin-connected Russian lawyer to get dirt on Hillary Clinton in June 2016. After days of New York Times reports revealed the meeting, Trump tweeted the emails he exchanged with Rob Goldstone (see below), a music promoter who offered a chance for intel on Clinton. Goldstone made clear that this was part of Russia's bid to help Donald Trump, and Trump Jr. replied, "if it's what you say I love it." Trump Jr. claims he was only expecting to get basic opposition research. 
 ^^^^^^
 ## Trump associates
-![Paul Manafort](static/img/manafort.gif)
+![Jay Sekulow](static/img/sekulow.png)
+### Jay Sekulow
+#### Trump's lawyer
+
+![Paul Manafort](static/img/manafort.png)
 ### Paul Manafort
 #### The second of Trump's three campaign managers
 Manafort and business partner Rick Gates were indicted by Special Counsel Robert Mueller on charges of conspiracy and money laundering in court papers unsealed on Oct. 30 for allegedly moving tens of millions of dollars through secret foreign accounts. Manafort resigned from the Trump campaign in August 2016 after reports that he lobbied for Ukraine's pro-Russian government in return for big bucks. Manafort's foreign financial ties are now being investigated by the CIA, NSA, FBI, Director of National Intelligence and the Treasury Department. He joined Donald Trump Jr. and Jared Kushner at Trump Tower June 9 for a meeting expecting to get damaging information about Hillary Clinton.
@@ -126,6 +130,31 @@ The leader of another investigation into the Trump campaign, who pushed James Co
 #### The President of Russia, who is chummy with President Trump
 The U.S. has accused Putin's government of leading the cyber attacks on Democrats during the 2016 campaign -- something that Putin has denied. The U.S. alleges Putin wanted to tip the scales for Trump to test Western alliances and prevent Hillary Clinton, who has feuded with Putin, from winning. Trump and Putin met at the G20 Summit in July, and the Russian strongman kept up his denials. Conflicting reports emerged on how hard Trump pressed Putin for answers, but the sitdown did not seem to change Trump's friendly attitude toward Putin.
 
+![Emin Agalarov](static/img/agalarov.png)
+### Emin Agalarov
+#### Russian pop star who did business with President Trump
+A client of Rob Goldstone. Agalarov met Trump in 2013 during the Miss Universe pageant in Moscow and featured him in a music video. When Trump returned to the United States, he tweeted to Agalarov's father, a billionaire Moscow developer, that he wanted to collaborate on "Trump Tower Moscow." The project never happened.
+
+![Aras Agalarov](static/img/aras-agalarov.png)
+### Aras Agalarov
+#### Father of pop star Emin Agalarov
+
+![Natalia Veselnitskaya](static/img/veselnitskaya.png)
+### Natalia Veselnitskaya
+#### Russian lawyer who organized the Trump Tower meeting
+
+![Ike Kaveladze](static/img/kaveladze.png)
+### Ike Kaveladze
+#### Russian businessman who was at the Trump Tower meeting
+
+![Yevgeny Prigozhin](static/img/prigozhin.png)
+### Yevgeny Prigozhin
+#### Putin's Chef
+
+![Alex Van Der Zwaan](static/img/vanderzwaan.png)
+### Alex Van Der Zwaan
+#### Attorney who worked for Ukraine and is the son-in-law of a Russian oligarch
+
 ![Nigel Farage](static/img/farage.png)
 ### Nigel Farage
 #### A leader of the U.K. Brexit movement
@@ -155,8 +184,3 @@ Lavrov joined Ambassador Sergey Kislyak for a White House meeting in May, in whi
 ### Christopher Steele
 #### A British intelligence officer, formerly with MI6
 Steele compiled an infamous dossier about Trump's supposed history with Russia. The dossier, which Buzzfeed News published in January, alleges that Russia has been grooming and blackmailing Trump behind the scenes for years as part of a conspiracy to shatter Western relations. Trump denied the allegations and the dossier's main thesis remains unverified. But since its publication, several secondary allegations about Russian officials and the Kremlin cyberattack campaign have been validated by further reports.
-
-![Emin Agalarov](static/img/agalarov.png)
-### Emin Agalarov
-#### Russian pop star who did business with President Trump
-A client of Rob Goldstone. Agalarov met Trump in 2013 during the Miss Universe pageant in Moscow and featured him in a music video. When Trump returned to the United States, he tweeted to Agalarov's father, a billionaire Moscow developer, that he wanted to collaborate on "Trump Tower Moscow." The project never happened.

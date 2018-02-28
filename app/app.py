@@ -74,6 +74,10 @@ def index():
     app.page['description'] = 'The investigation into President Trump’s ties to Russia is extremely complicated, with new revelations every day. Here’s your at-a-glance guide to who’s who and how the key players are connected. By NY Daily News reporter Jason Silverstein'.decode('utf-8')
     app.page['keywords'] = 'Donald Trump Russia investigation, Trump’s Russia connections, Trump associates, Putin and Trump, Donald Trump Jr., Jared Kushner'.decode('utf-8')
 
+    new = ["Donald Trump"]
+
+    updated = ["Eric Trump"]
+
     content = { 'intro': '', 'sections': [] }
     fh = open('story.md', 'rb')
     story = fh.read().split('^^^^^^')
@@ -88,6 +92,14 @@ def index():
         parts = section.split("\n\n")
         for item in parts:
             mkup = m.html(item)
+            for n in new:
+                h3 = '<h3>%s<' % n
+                if h3 in mkup:
+                    mkup = mkup.replace('<p>', '<p class="label new">')
+            for u in updated:
+                h3 = '<h3>%s<' % u
+                if h3 in mkup:
+                    mkup = mkup.replace('<p>', '<p class="label updated">')
             mkup = mkup.replace('</h4>', '</h4>\n<div id="read-more-%d" class="read-more collapsed section-%d" onclick="clicker(%d);">' % (i, s, i))
             items.append(mkup)
             i += 1
