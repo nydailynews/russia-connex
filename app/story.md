@@ -160,12 +160,12 @@ Soviet-born U.S. businessman and senior vice president at Crocus Group, the real
 ![Yevgeny Prigozhin](static/img/prigozhin.png)
 ### Yevgeny Prigozhin
 #### Putin's Chef
-A restauranteur who ran Putin’s favorite waterside dining spot, the 56-year-old is an ex-con who runs several companies with Kremlin contracts. Mueller’s indictment alleges he funded the Internet Research Agency, a "troll factory" that used social media and other avenues to "sow discord in the U.S. political system." He also reportedly runs mercenary troops who attacked U.S. troops in Syria."
+A restauranteur who ran Putin's favorite waterside dining spot, the 56-year-old is an ex-con who runs several companies with Kremlin contracts. Mueller's indictment alleges he funded the Internet Research Agency, a "troll factory" that used social media and other avenues to "sow discord in the U.S. political system." He also reportedly runs mercenary troops who attacked U.S. troops in Syria."
 
 ![Alex Van Der Zwaan](static/img/vanderzwaan.png)
 ### Alex Van Der Zwaan
 #### Attorney who worked for Ukraine and is the son-in-law of a Russian oligarch
-Van der Zwaan is a Dutch lawyer who pleaded guilty in February 2018 to lying to Mueller’s team about his discussions with Gates and another unnamed person. He worked for the international lawfirm Skadden Arps, which produced a report for the Ukrainian government in 2012. The 33-year-old’s father-in-law is German Khan, a Ukrainian-Russian who is a part owner of Russia’ Alfa Bank and is mentioned in the Steele dossier.
+Van der Zwaan is a Dutch lawyer who pleaded guilty in February 2018 to lying to Mueller's team about his discussions with Gates and another unnamed person. He worked for the international lawfirm Skadden Arps, which produced a report for the Ukrainian government in 2012. The 33-year-old's father-in-law is German Khan, a Ukrainian-Russian who is a part owner of Russia's Alfa Bank and is mentioned in the Steele dossier.
 
 ![Nigel Farage](static/img/farage.png)
 ### Nigel Farage
