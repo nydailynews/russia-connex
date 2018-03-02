@@ -17,7 +17,7 @@ page = {
     'title_twitter': 'Donald Trump’s ties to Russia: Your at-a-glance guide to who’s who.'.decode('utf-8'),
     'url': 'http://interactive.nydailynews.com/project/donald-trump-ties-russia-key-players/',
     'description': '',
-    'author': '"Jason Silverstein", "Interactive Project"',
+    'author': '"Denis Slattery", "Jason Silverstein", "Interactive Project"',
     'datestamp': '2017-07-12',
     'keywords': '',
     'keywords_array': '"donald trump", "russia", "donald trump jr"',
@@ -91,7 +91,7 @@ def index():
         items = []
         parts = section.split("\n\n")
         for item in parts:
-            mkup = m.html(item)
+            mkup = m.html(item.decode('utf-8'))
             for n in new:
                 h3 = '<h3>%s<' % n
                 if h3 in mkup:
