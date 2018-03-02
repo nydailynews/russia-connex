@@ -1,2 +1,4 @@
 .DS_Store
-.pyc
+*.pyc
+app/build
+tag-russia-1.html
