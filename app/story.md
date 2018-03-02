@@ -46,8 +46,9 @@ Longtime GOP lobbyist and political insider and his business partner Rick Gates 
 Gates accepted a plea deal with Mueller's team in February 2018 admitting that he lied to investigators. He was indicted with Manafort by Mueller on charges of conspiracy and money laundering in court papers unsealed on Oct. 30. The pair were accused of laundering millions of dollars through offshore accounts. Gates' and Manafort's firm did work for high-profile Eastern European clients, including pro-Russian government officials in the Ukraine. He was Manafort's number two when he was the Trump campaign's chairman, and stayed on after his longtime business associate's departure. He worked on the Trump transition team and the President's inauguration committee, and helped launched the pro-Trump PAC "America First Policies" with five other former Trump campaign aides. He was pushed out in March after it was reported he was being probed by the Feds.
 
 ![Richard Pinedo](static/img/pinedo.png)
-### California man working with Mueller
-#### Pinedo pleaded guilty to identity fraud, having apparently played an unintentional role in the Russian effort by selling bank account numbers with stolen identities.
+### Richard Pinedo
+#### California man working with Mueller
+Pinedo pleaded guilty to identity fraud, having apparently played an unintentional role in the Russian effort by selling bank account numbers with stolen identities.
 
 ![George Papadopoulos](static/img/papadopoulos.png)
 ### George Papadopoulos

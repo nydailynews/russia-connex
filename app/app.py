@@ -71,12 +71,12 @@ def update_index():
 @app.route('/')
 def index():
     app.page['title'] = 'Donald Trump’s ties to Russia: A who’s who of the key players'.decode('utf-8')
-    app.page['description'] = 'The investigation into President Trump’s ties to Russia is extremely complicated, with new revelations every day. Here’s your at-a-glance guide to who’s who and how the key players are connected. By NY Daily News reporter Jason Silverstein'.decode('utf-8')
+    app.page['description'] = 'The investigation into President Trump’s ties to Russia is extremely complicated, with new revelations every day. Here’s your at-a-glance guide to who’s who and how the key players are connected. By NY Daily News reporters Denis Slattery and Jason Silverstein'.decode('utf-8')
     app.page['keywords'] = 'Donald Trump Russia investigation, Trump’s Russia connections, Trump associates, Putin and Trump, Donald Trump Jr., Jared Kushner'.decode('utf-8')
 
-    new = ["Donald Trump"]
+    new = ["Aras Agalarov","Natalia Veselnitskaya","Ike Kaveladze","Jay Sekulow","Yevgeny Prigozhin","Alex Van Der Zwaan","Richard Pinedo"]
 
-    updated = ["Eric Trump"]
+    updated = ["Donald Trump","Jared Kushner","Eric Trump","Donald Trump Jr.","Paul Manafort","Rick Gates","Roger Stone","Jeff Sessions","Michael Flynn","Michael Cohen","Carter Page","Robert Mueller","James Comey","Rod Rosenstein","Sally Yates","Devin Nunes"]
 
     content = { 'intro': '', 'sections': [] }
     fh = open('story.md', 'rb')
